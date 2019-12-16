@@ -5,8 +5,6 @@ The Ethereum OASIS Open Project is an [OASIS Open Project](http://oasis-open-pro
 
 For more information on the goals of this effort, see the [project charter](./PROJECT_CHARTER.md). 
 
-Ethereum OASIS Open Project members will also be hosting a breakout session on this effort at [Devcon 2019](https://devcon.org).
-
 ## Contributing
 We are currently looking for Ethereum developers interested in standardizing Ethereum JSON-RPC and Open-RPC. Those interested should file an issue in this repo, or reach out directly to Virgil Griffith, Dan Burnett, Charles McCathie Neville, Nick Johnson, or Jory Burson.
 
