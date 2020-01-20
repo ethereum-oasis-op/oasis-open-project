@@ -9,4 +9,4 @@ For more information on the goals of this effort, see the [project charter](./PR
 We are currently looking for Ethereum developers interested in standardizing Ethereum JSON-RPC and Open-RPC. Those interested should file an issue in this repo, or reach out directly to Virgil Griffith, Dan Burnett, Charles McCathie Neville, Nick Johnson, or Jory Burson.
 
 ## Governance
-This project operates under the terms of the [Open Project Rules]() and the applicable license(s) specified in [LICENSE.md](./LICENSE).
+This project operates under the terms of the [Open Project Rules](https://github.com/oasis-open-projects/documentation/blob/master/board-docs/open-projects-rules.md) and the applicable license(s) specified in [LICENSE.md](./LICENSE).
