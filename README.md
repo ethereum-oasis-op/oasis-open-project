@@ -9,7 +9,7 @@ For more information on the goals of this effort, see the [project charter](./PR
 Each Ethereum OASIS project is managed by a Technical Steering Committee and overseen by the Project Governing Board.
 
 * Baseline Protocol - Bootstrapping
-  * repos: <br>[ethereum-oasis/baseline]() <br> [ethereum-oasis/baseline-website](ethereum-oasis/baseline-website)
+  * repos: <br>[ethereum-oasis/baseline]() <br> [ethereum-oasis/baseline-website](https://github.com/ethereum-oasis/baseline)
   * website: [baseline-protocol.org](https://www.baseline-protocol.org/)
   * email list: [baseline@lists.oasis-open-projects.org](https://lists.oasis-open-projects.org/g/baseline)
   * chat: [Slack](https://communityinviter.com/apps/ethereum-baseline/join-us)
