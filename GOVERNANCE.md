@@ -83,6 +83,14 @@ Any TSC failing to meet one or more of the above heartbeat requirements is consi
 
 Note that the PGB may permit the formation or continuation of a TSC that does not meet the above requirements.
 
+### TSC funding
+
+The OASIS Ethereum Open Project supports all of its TSCs.  However, it could happen that a TSC would like additional resources, beyond those provided by default by OASIS, to support its initiatives.  In this case, a TSC may seek additional funding for its projects in one of two ways:
+* Through OASIS: Only Ethereum Open Project Sponsors may do this.  Any Sponsor may provide additional funding through OASIS that is designated for a specific TSC to allocate.  No advance vote or approval by the PGB is required.
+* External to OASIS: This can be anything, from crowdfunding innovative projects to organizations or individuals paying directly for specific non-OASIS staff.  No advance vote or approval by the PGB is required.
+
+Regardless of how the funding occurs, the TSC and its projects may not use the OASIS or Ethereum Open Project names when seeking or using additional funding unless the PGB has been notified in advance.  Although prior approval by the PGB of such funding or its use is not required, the PGB may veto the acquisition or use of such funding at any time for any reason; the intent is to ensure that the acquisition and use of any such funding is consistent with the overall goals of the Ethereum Open Project.
+
 ## Closing a TSC
 
 The Project Governing Board may close a TSC at any time.
