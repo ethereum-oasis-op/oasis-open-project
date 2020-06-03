@@ -82,7 +82,7 @@ Note that the PGB may permit the formation or continuation of a TSC that does no
 
 ### TSC funding
 
-The OASIS Ethereum Open Project supports all of its TSCs.  However, if a TSC would like additional resources, beyond those provided by default by OASIS, to support its initiatives, it may seek additional funding.
+The Ethereum OASIS Open Project supports all of its TSCs.  However, if a TSC would like additional resources, beyond those provided by default by OASIS, to support its initiatives, it may seek additional funding.
 * Only Ethereum Open Project Sponsors may do this.  Any Sponsor may provide additional funding through OASIS that is designated for a specific TSC to allocate.
 * No advance vote or approval by the PGB is required.
 * The TSC determines where to direct the funds collected, either directly or via a process they establish.
