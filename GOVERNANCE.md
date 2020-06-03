@@ -1,15 +1,15 @@
 # Ethereum OASIS Project Governance
 
-This document defines the Ethereum OASIS project's community governance per [OASIS Open Projects Governance Policy](https://github.com/oasis-open-projects/documentation/blob/master/policy/project-governance.md).
+This document defines the Ethereum OASIS Open Project's community governance per [OASIS Open Projects Governance Policy](https://github.com/oasis-open-projects/documentation/blob/master/policy/project-governance.md).
 
 # Our Goal
 Our primary goal is to increase the minimum quality of Ethereum-related standards.  We aim for the mean quality of standards that pass through our process to be greater than the mean quality that have not.
 
 ## Overview
 
-The **Ethereum OASIS Project** community is governed by this document and in accordance with [OASIS Open Project Rules](../board-docs/open-projects-rules.md). The purpose of this document is to definine how community should work together to achieve its technical goals.
+The **Ethereum OASIS Open Project** community is governed by this document and in accordance with [OASIS Open Project Rules](../board-docs/open-projects-rules.md). The purpose of this document is to definine how community should work together to achieve its technical goals.
 
-The Ethereum OASIS Project aims to work by lazy consensus within each TSC, as described under [Decision Making](#decision-making) below.  Each TSC is responsible for determining when it has lazy consensus. 
+The Ethereum OASIS Open Project aims to work by lazy consensus within each TSC, as described under [Decision Making](#decision-making) below.  Each TSC is responsible for determining when it has lazy consensus. 
 
 Within a TSC, those who show up and do the work get to make the decisions.
 
