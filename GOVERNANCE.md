@@ -1,15 +1,15 @@
 # Ethereum OASIS Project Governance
 
-This document defines the Ethereum OASIS project's community governance per [OASIS Open Projects Governance Policy](https://github.com/oasis-open-projects/documentation/blob/master/policy/project-governance.md).
+This document defines the Ethereum OASIS Open Project's community governance per [OASIS Open Projects Governance Policy](https://github.com/oasis-open-projects/documentation/blob/master/policy/project-governance.md).
 
 # Our Goal
 Our primary goal is to increase the minimum quality of Ethereum-related standards.  We aim for the mean quality of standards that pass through our process to be greater than the mean quality that have not.
 
 ## Overview
 
-The **Ethereum OASIS Project** community is governed by this document and in accordance with [OASIS Open Project Rules](../board-docs/open-projects-rules.md). The purpose of this document is to definine how community should work together to achieve its technical goals.
+The **Ethereum OASIS Open Project** community is governed by this document and in accordance with [OASIS Open Project Rules](../board-docs/open-projects-rules.md). The purpose of this document is to definine how community should work together to achieve its technical goals.
 
-The Ethereum OASIS Project aims to work by lazy consensus within each TSC, as described under [Decision Making](#decision-making) below.  Each TSC is responsible for determining when it has lazy consensus. 
+The Ethereum OASIS Open Project aims to work by lazy consensus within each TSC, as described under [Decision Making](#decision-making) below.  Each TSC is responsible for determining when it has lazy consensus. 
 
 Within a TSC, those who show up and do the work get to make the decisions.
 
@@ -48,12 +48,9 @@ The **Project Governance Board** (**PGB**)'s responsibility is to ensure that ev
 The **PGB** also follows and is responsible for upholding the [OASIS Open Projects Rules](https://github.com/oasis-open-projects/documentation/blob/master/board-docs/open-projects-rules.md).
 
 
-### List of PGB Members
+### PGB Membership
 
-* Daniel Burnett (@burnburn) - ConsenSys
-* Chaals Nevile (@chaals) - EEA
-* Tas Dienes (@tasdienes) - EF
-* Jory Burson (@jorydotcom / @OASIS-OP-Admin) - OASIS Staff
+The PGB is comprised of one representative from each Sponsoring organization. Additionally, each TSC Chair is a member of the PGB. The PGB roster is maintained at https://github.com/ethereum-oasis/oasis-open-project#governance
 
 ### Becoming an Editor
 
@@ -85,11 +82,15 @@ Note that the PGB may permit the formation or continuation of a TSC that does no
 
 ### TSC funding
 
-The OASIS Ethereum Open Project supports all of its TSCs.  However, it could happen that a TSC would like additional resources, beyond those provided by default by OASIS, to support its initiatives.  In this case, a TSC may seek additional funding for its projects in one of two ways:
-* Through OASIS: Only Ethereum Open Project Sponsors may do this.  Any Sponsor may provide additional funding through OASIS that is designated for a specific TSC to allocate.  No advance vote or approval by the PGB is required.
-* External to OASIS: This can be anything, from crowdfunding innovative projects to organizations or individuals paying directly for specific non-OASIS staff.  No advance vote or approval by the PGB is required.
+The Ethereum OASIS Open Project supports all of its TSCs.  However, if a TSC would like additional resources, beyond those provided by default by OASIS, to support its initiatives, it may seek additional funding.
+* Only Ethereum Open Project Sponsors may do this.  Any Sponsor may provide additional funding through OASIS that is designated for a specific TSC to allocate.
+* No advance vote or approval by the PGB is required.
+* The TSC determines where to direct the funds collected, either directly or via a process they establish.
+* The TSC and its projects may not use the OASIS or Ethereum Open Project names when seeking or using additional funding unless the PGB has been notified in advance.  
+* The TSC must give advance notice to the PGB before disbursement of any funds.
+* The PGB may veto the acquisition or use of such funding at any time for any reason; the intent is to ensure that the acquisition and use of any such funding is consistent with the overall goals of the Ethereum Open Project.
 
-Regardless of how the funding occurs, the TSC and its projects may not use the OASIS or Ethereum Open Project names when seeking or using additional funding unless the PGB has been notified in advance.  Although prior approval by the PGB of such funding or its use is not required, the PGB may veto the acquisition or use of such funding at any time for any reason; the intent is to ensure that the acquisition and use of any such funding is consistent with the overall goals of the Ethereum Open Project.
+If a TSC chooses to seek funding outside of the OASIS funding path, they still must not use the OASIS, Ethereum Open Project, or TSC project names when seeking or using additional funding unless the PGB has been notified in advance.
 
 ## Closing a TSC
 
