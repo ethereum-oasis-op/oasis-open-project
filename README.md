@@ -35,10 +35,6 @@ Each Ethereum OASIS project is managed by a Technical Steering Committee and ove
   * email lists:
   * chat:
   * TSC Members:
-    * Zach Belford
-    * Terry Culver
-    * Shane Jonas
-    * Chris Ward
   * Governance document:
 
 ## Contributing
@@ -55,6 +51,7 @@ It is overseen by the Ethereum OASIS Project Governing Board:
 * Daniel Burnett, ConsenSys ([@burnburn](https://github.com/burnburn))
 * Tas Dienes, Ethereum Foundation ([@tasdienes](https://github.com/tasdienes))
 * Chaals Nevile, Enterprise Ethereum Alliance ([@chaals](https://github.com/chaals))
-* John Wolpert, Baseline TSC Chair
+* Stefan Schmidt, Unibright ([@stefschmidt](https://github.com/stefschmidt))
+* John Wolpert, Baseline TSC Chair ([@humbitious](https://github.com/humbitious))
 
 For information on joining sponsoring these projects or joining the governing board, please contact [Jory Burson](https://github.com/jorydotcom), OASIS Open Projects Program Manager, or email [op-admin@oasis-open.org]().
