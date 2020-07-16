@@ -48,9 +48,9 @@ The Ethereum OASIS Open Project operates under the terms of the [OASIS Open Proj
 
 It is overseen by the Ethereum OASIS Project Governing Board:
 
-* Daniel Burnett, ConsenSys ([@burnburn](https://github.com/burnburn))
+* Daniel Burnett, Enterprise Ethereum Alliance ([@burnburn](https://github.com/burnburn))
 * Tas Dienes, Ethereum Foundation ([@tasdienes](https://github.com/tasdienes))
-* Chaals Nevile, Enterprise Ethereum Alliance ([@chaals](https://github.com/chaals))
+* Chaals Nevile, ConsenSys ([@chaals](https://github.com/chaals))
 * Stefan Schmidt, Unibright ([@stefschmidt](https://github.com/stefschmidt))
 * John Wolpert, Baseline TSC Chair ([@humbitious](https://github.com/humbitious))
 
