@@ -1,19 +1,24 @@
+
 # Ethereum OASIS Project Governance
 
 This document defines the Ethereum OASIS Open Project's community governance per [OASIS Open Projects Governance Policy](https://github.com/oasis-open-projects/documentation/blob/master/policy/project-governance.md).
 
 # Our Goal
 Our primary goal is to increase the minimum quality of Ethereum-related standards.  We aim for the mean quality of standards that pass through our process to be greater than the mean quality that have not.
+<!--- Do you want to say something about what you mean by 'quality'? For example, does quality mean that the spec has fewer places where developers make conflicting but equally valid interpretations of the spec? Or maybe that developers have to ask fewer questions to understand it? Or that developers can implement successfully interoperating implementations with few places where they have to meet to agree on more efficiently?  --->
 
 ## Overview
 
-The **Ethereum OASIS Open Project** community is governed by this document and in accordance with [OASIS Open Project Rules](../board-docs/open-projects-rules.md). The purpose of this document is to definine how community should work together to achieve its technical goals.
+The **Ethereum OASIS Open Project** community is governed by this document and in accordance with [OASIS Open Project Rules](../board-docs/open-projects-rules.md). The purpose of this document is to define how community should work together to achieve its technical goals.
+<!--- I suggest you add something like "Aspects of the work of the community may also be covered by the rules of the [OASIS Committee Operations Process](https://www.oasis-open.org/policies-guidelines/oasis-committee-operations-process-2018-05-22) and other [OASIS policies](https://www.oasis-open.org/policies-guidelines). --->
 
 The Ethereum OASIS Open Project aims to work by lazy consensus within each TSC, as described under [Decision Making](#decision-making) below.  Each TSC is responsible for determining when it has lazy consensus. 
 
 Within a TSC, those who show up and do the work get to make the decisions.
+<!--- This is an excellent aspirational statement. You may want to make clear what 'show up and do the work' means in practice to avoid misunderstandings. For example, has someone who read all the emails, reviewed pull requests, read all documents, attended any calls, etc. but never had anything to say 'done the work?' Does a person have to make pull requests? ---> 
 
 The TSC should be open to changing decisions based on new information, if a consensus emerges to make such a change.
+<!--- I suggest taking this out. It will happen naturally, without being listed in the procedure, and having this statement could possibly be seen as an invitation for one party to reargue decisions that they don't like. "Oh, but y'all didn't consider this..." ---> 
 
 ## Code Repositories
 
@@ -25,11 +30,16 @@ The following code repositories are governed by the **Ethereum OASIS Open Projec
 
 ## Community Roles
 
-All members of the community must complete and abide by the [Required Legal Agreements](#Required-Legal-Agreements), which includes abiding by the [OASIS Open Projects Code of Conduct](https://github.com/oasis-open-projects/documentation/blob/master/CODE_OF_CONDUCT.md). Failure to meet these requirements means a contributor is no longer eligible to participate.
+All members of the community must complete and abide by the
+the [Required Legal Agreements](#Required-Legal-Agreements), which includes abiding by the [OASIS Open Projects Code of Conduct](https://github.com/oasis-open-projects/documentation/blob/master/CODE_OF_CONDUCT.md). Failure to meet these requirements means a contributor is no longer eligible to participate. <!--- how about this instead: "Violation of these rules may result in a person being barred from further participating." ---> 
 
 * *Contributor*: People who have contributed to a TSC repository in the last 2 years. Anyone can be a contributor, so long as they agree to contribute under the terms of this document.
 * *Technical Steering Committee (TSC) chair*: one or more persons appointed by the Project Governing Board to ensure the TSC runs smoothly. The chair is empowered to suspend a contributor temporarily or permanently (for example for egregiously or repeatedly breaching the Code of Conduct). Appeals can be sent to the PGB under the same 2/3 majority rule used for overturning consensus decisions.
-* *Project Governing Board (PGB)*: The Project Governing Board is charged with ensuring the overall project runs smoothly, as described below.
+<!--- I suggest splitting this into 2 parts: 
+* *Technical Steering Committee (TSC) member*: persons appointed by the PGB to manage and drive the day-to-day technical work of the project.
+* *Technical Steering Committee (TSC) chair*: one or two members of the TSC appointed by the Project Governing Board to manage the agenda for the group, schedule and run any meetings, and generally ensure the TSC runs smoothly. The chair is empowered to suspend a contributor temporarily or permanently (for example for egregiously or repeatedly breaching the Code of Conduct). Appeals can be sent to the PGB under the same 2/3 majority rule used for overturning consensus decisions. 
+--->
+* *Project Governing Board (PGB)*: The Project Governing Board is charged with ensuring the overall project runs smoothly, as described below. <!--- The PGB, in consultation with the TSC, also has final approval over releases and decisions to advance work to the OASIS standardization process. ---> 
 
 
 ## Project Leadership
@@ -38,6 +48,7 @@ Each **Technical Steering Committee** (**TSC**) has a chair (or co-chairs) appoi
 
 ### Project Governance Board
 The **Project Governance Board** (**PGB**)'s responsibility is to ensure that every TSC is running reasonably well. With a [special majority](#Special-Majority-Vote), the PGB can
+
   * overturn or confirm a TSC's declared consensus;
   * replace a TSC chair;
   * determine that a participant has failed to abide by the Code of Conduct, and declare them ineligible to participate for a term the PGB decides;
@@ -47,6 +58,7 @@ The **Project Governance Board** (**PGB**)'s responsibility is to ensure that ev
 
 The **PGB** also follows and is responsible for upholding the [OASIS Open Projects Rules](https://github.com/oasis-open-projects/documentation/blob/master/board-docs/open-projects-rules.md).
 
+<!--- If membership in the PGB exceeds <threshold #, e.g. 12> members, then the PGB may establish an ad-hoc steering committee composed of each TSC representative seated on the PGB and two or three Sponsor representatives of the PGB. The purpose of the ad-hoc steering committee will be to help the full PGB function effectively and may include such tasks as proposing priorities for issues, recommending solutions for issues under consideration by the PGB, and organizing agenda items for consideration at full PGB meetings. Final discussion and decision-making will remain with the full PGB. --->
 
 ### PGB Membership
 
@@ -102,7 +114,7 @@ Any TSC which is *inactive* may be closed with a Full Majority Vote.
 
 A TSC which has been *inactive* for at least 6 consecutive months may be closed with a Simple Majority Vote.
 
-Note that closing a TSC ends any conference calls and specification editing privileges but will not automatically remove any materials.
+Note that closing a TSC ends any conference calls and specification editing privileges but will not automatically remove any materials.  <!--- This may conflict with the Open Project rules. I'll have to check. I believe the rules say that we'll remove branding and other identifiers but the project will remain 'live.'" --->
 
 ## Decision Making
 
@@ -112,7 +124,7 @@ If the chairs of a TSC determine that consensus is not possible, then the TSC wi
 
 Any TSC lazy consensus decision can be overturned by a $\geq 2/3$ majority of the PGB at the request of a TSC contributor.
 
-The PGB is unlikely to overturn a decision based on a single objection from a contributor who has barely participated, or an apparent "[branch-stacking](https://en.wikipedia.org/wiki/Branch_stacking)" (aka Room Packing) exercise. 
+The PGB is unlikely to overturn a decision based on a single objection from a contributor who has barely participated, or an apparent "[branch-stacking](	)" (aka Room Packing) exercise. 
 
 Lazy consensus does _not_ apply to certain decisions of the **PGB**, as defined elsewhere in this document.
 
@@ -132,6 +144,8 @@ Lazy consensus does _not_ apply to some PGB decisions identified elsewhere in th
 ### Special Majority Vote
 
 A Special Majority Vote is a vote in which at least 2/3 (two thirds) of the eligible voters vote "yes" and no more than 1/4 (one fourth) of the eligible voters vote "no". These numbers are based on the total number of eligible voters in the committee. Abstentions are not counted. For example, in a Committee in which there are 30 Voting Members, at least 20 Voting Members must vote "yes" for a motion to pass; but if 8 or more vote "no" then the motion fails.
+
+<!--- Special Majority Votes must be run by the OASIS OP Administrator. ---> 
 
 Certain issues require a Special Majority Vote of the PGB, such as appointing TSC chairs or changing this governance document.
 
@@ -174,7 +188,7 @@ Each TSC will probably create their own lifecycle.  But as a possible default, e
 
 Each TSC specification will only be considered complete when:
 
-* It has appropriate documentation
+* It has appropriate documentation <!--- created using the Open Project specification template supplied by the OP Administrator. --->
 * It has a test suite for all normative statements in the specification
 
 Examples of acceptable documentation: 
