@@ -51,6 +51,7 @@ It is overseen by the Ethereum OASIS Project Governing Board:
 * Daniel Burnett, Enterprise Ethereum Alliance ([@burnburn](https://github.com/burnburn))
 * Tas Dienes, Ethereum Foundation ([@tasdienes](https://github.com/tasdienes))
 * Chaals Nevile, ConsenSys ([@chaals](https://github.com/chaals))
+* Gina Rubino, Nethermind ([@grubino28](https://github.com/grubino28))
 * Stefan Schmidt, Unibright ([@stefschmidt](https://github.com/stefschmidt))
 * John Wolpert, Baseline TSC Chair ([@humbitious](https://github.com/humbitious))
 
