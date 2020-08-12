@@ -187,4 +187,7 @@ Examples of insufficient documentation:
 
 ## Updating Governance
 
-Substantive changes to this document may be made by a Special Majority Vote of the PGB.
+Substantive changes to this document may be made by a Special Majority Vote of the PGB. Changes should be made as Pull Requests on this document. 
+Votes should be cast as reviews - approve or request changes. 
+
+If a PR is 7 days old, and there are sufficient reviews that the next vote meets the requirements for approving a change, the voter can merge the PR.
