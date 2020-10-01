@@ -5,6 +5,23 @@ The Ethereum OASIS Open Project is an [OASIS Open Project](http://oasis-open-pro
 
 For more information on the goals of this effort, see the [project charter](./PROJECT_CHARTER.md). 
 
+## Governance
+The Ethereum OASIS Open Project operates under the terms of the [OASIS Open Project Rules](https://github.com/oasis-open-projects/documentation/blob/master/board-docs/open-projects-rules.md), its [Ethereum OASIS Project Governance Document](https://github.com/ethereum-oasis/oasis-open-project/blob/master/GOVERNANCE.md) and the applicable license(s) specified in [LICENSE.md](./LICENSE).
+
+It is overseen by the Ethereum OASIS Project Governing Board:
+
+* Daniel Burnett, Enterprise Ethereum Alliance ([@burnburn](https://github.com/burnburn))
+* Tas Dienes, Ethereum Foundation ([@tasdienes](https://github.com/tasdienes))
+* Dan Kochis, Chainlink ([@dk21dk](https://github.com/dk21dk))
+* Tracy Kuhrt, Accenture ([@tkuhrt](https://github.com/tkuhrt))
+* Chaals Nevile, ConsenSys ([@chaals](https://github.com/chaals))
+* Gina Rubino, Nethermind ([@grubino28](https://github.com/grubino28))
+* Stefan Schmidt, Unibright ([@stefschmidt](https://github.com/stefschmidt))
+* Kyle Thomas, Provide ([@kthomas](https://github.com/kthomas))
+* John Wolpert, Baseline TSC Chair ([@humbitious](https://github.com/humbitious))
+
+For information on joining sponsoring these projects or joining the governing board, please contact [Jory Burson](https://github.com/jorydotcom), OASIS Open Projects Program Manager, or email [op-admin@oasis-open.org]().
+
 ## List of projects & TSCs
 Each Ethereum OASIS project is managed by a Technical Steering Committee and overseen by the Project Governing Board.
 
@@ -42,20 +59,3 @@ Everyone is welcome to contribute to Ethereum OASIS projects - you do not need t
 
 ### CLA & Non-assert signatures required
 All technical contributions must be accompanied by a Contributor's License Agreement. This requirement allows our work to advance through de jure standards development stages in forums such as EC or ISO. You will get a prompt to sign this document when you submit a pull request to a project repository, or you can sign [here](https://cla-assistant.io/ethereum-oasis/oasis-open-project). If you are contributing on behalf of your employer, you must also sign the ECLA [here](https://www.oasis-open.org/resources/projects/cla/projects-entity-cla).
-
-## Governance
-The Ethereum OASIS Open Project operates under the terms of the [OASIS Open Project Rules](https://github.com/oasis-open-projects/documentation/blob/master/board-docs/open-projects-rules.md), its [Ethereum OASIS Project Governance Document](https://github.com/ethereum-oasis/oasis-open-project/blob/master/GOVERNANCE.md) and the applicable license(s) specified in [LICENSE.md](./LICENSE).
-
-It is overseen by the Ethereum OASIS Project Governing Board:
-
-* Daniel Burnett, Enterprise Ethereum Alliance ([@burnburn](https://github.com/burnburn))
-* Tas Dienes, Ethereum Foundation ([@tasdienes](https://github.com/tasdienes))
-* Dan Kochis, Chainlink ([@dk21dk](https://github.com/dk21dk))
-* Tracy Kuhrt, Accenture ([@tkuhrt](https://github.com/tkuhrt))
-* Chaals Nevile, ConsenSys ([@chaals](https://github.com/chaals))
-* Gina Rubino, Nethermind ([@grubino28](https://github.com/grubino28))
-* Stefan Schmidt, Unibright ([@stefschmidt](https://github.com/stefschmidt))
-* Kyle Thomas, Provide ([@kthomas](https://github.com/kthomas))
-* John Wolpert, Baseline TSC Chair ([@humbitious](https://github.com/humbitious))
-
-For information on joining sponsoring these projects or joining the governing board, please contact [Jory Burson](https://github.com/jorydotcom), OASIS Open Projects Program Manager, or email [op-admin@oasis-open.org]().
