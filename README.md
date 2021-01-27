@@ -34,17 +34,17 @@ Each Ethereum OASIS project is managed by a Technical Steering Committee and ove
   * chat: [Slack](https://communityinviter.com/apps/ethereum-baseline/join-us)
   * twitter: [@baselineproto](https://twitter.com/baselineproto)
   * TSC Members: 
-    * John Wolpert (Chair)
     * Brian Chamberlain
-    * Johann Eid
     * Hudson Jameson
-    * Nate McKervey
-    * Eric Bravick
-    * Kyle Thomas
+    * Anais Ofranc
     * Stefan Schmidt
     * Kartheek Solipuram
+    * George Spasov
+    * Tomasz Stanczak
     * Conor Svensson
-    * Zachary Williamson
+    * Cale Teeter
+    * Kyle Thomas
+    * John Wolpert (Chair)
   * Governance document: https://github.com/ethereum-oasis/baseline/blob/master/docs/community/governance.md
 * Ethereum OpenRPC - Bootstrapping
   * repos: 
