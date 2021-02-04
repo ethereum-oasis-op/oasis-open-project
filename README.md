@@ -15,7 +15,7 @@ It is overseen by the Ethereum OASIS Project Governing Board:
 * Dan Kochis, Chainlink ([@dk21dk](https://github.com/dk21dk))
 * Tracy Kuhrt, Accenture ([@tkuhrt](https://github.com/tkuhrt))
 * Chaals Nevile, ConsenSys ([@chaals](https://github.com/chaals))
-* Gina Rubino, Nethermind ([@grubino28](https://github.com/grubino28))
+* Antonio Sabado, Nethermind ([@asabado](https://github.com/asabado))
 * Stefan Schmidt, Unibright ([@stefschmidt](https://github.com/stefschmidt))
 * Kyle Thomas, Provide ([@kthomas](https://github.com/kthomas))
 * John Wolpert, Baseline TSC Chair ([@humbitious](https://github.com/humbitious))
