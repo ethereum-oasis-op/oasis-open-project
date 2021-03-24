@@ -21,7 +21,7 @@ It is overseen by the Ethereum OASIS Project Governing Board:
 * John Wolpert, Baseline TSC Chair ([@humbitious](https://github.com/humbitious))
 * Jan Brezina, Ernst & Young LLP ([@puncar-dev](https://github.com/puncar-dev))
 
-For information on joining sponsoring these projects or joining the governing board, please contact [Jory Burson](https://github.com/jorydotcom), OASIS Open Projects Program Manager, or email [op-admin@oasis-open.org]().
+For information on joining sponsoring these projects or joining the governing board, please contact the OASIS Open Projects Program Manager at [op-admin@oasis-open.org]().
 
 ## List of projects & TSCs
 Each Ethereum OASIS project is managed by a Technical Steering Committee and overseen by the Project Governing Board.
