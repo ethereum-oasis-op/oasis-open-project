@@ -15,13 +15,13 @@ It is overseen by the Ethereum OASIS Project Governing Board:
 * Dan Kochis, Chainlink ([@dk21dk](https://github.com/dk21dk))
 * Tracy Kuhrt, Accenture ([@tkuhrt](https://github.com/tkuhrt))
 * Chaals Nevile, ConsenSys ([@chaals](https://github.com/chaals))
-* Gina Rubino, Nethermind ([@grubino28](https://github.com/grubino28))
+* Antonio Sabado, Nethermind ([@asabado](https://github.com/asabado))
 * Stefan Schmidt, Unibright ([@stefschmidt](https://github.com/stefschmidt))
 * Kyle Thomas, Provide ([@kthomas](https://github.com/kthomas))
 * John Wolpert, Baseline TSC Chair ([@humbitious](https://github.com/humbitious))
-* TBD, E&Y Representative
+* Jan Brezina, Ernst & Young LLP ([@puncar-dev](https://github.com/puncar-dev))
 
-For information on joining sponsoring these projects or joining the governing board, please contact [Jory Burson](https://github.com/jorydotcom), OASIS Open Projects Program Manager, or email [op-admin@oasis-open.org]().
+For information on joining sponsoring these projects or joining the governing board, please contact the OASIS Open Projects Program Manager at [op-admin@oasis-open.org]().
 
 ## List of projects & TSCs
 Each Ethereum OASIS project is managed by a Technical Steering Committee and overseen by the Project Governing Board.
@@ -35,17 +35,17 @@ Each Ethereum OASIS project is managed by a Technical Steering Committee and ove
   * chat: [Slack](https://communityinviter.com/apps/ethereum-baseline/join-us)
   * twitter: [@baselineproto](https://twitter.com/baselineproto)
   * TSC Members: 
-    * John Wolpert (Chair)
     * Brian Chamberlain
-    * Johann Eid
     * Hudson Jameson
-    * Nate McKervey
-    * Eric Bravick
-    * Kyle Thomas
+    * Anais Ofranc
     * Stefan Schmidt
     * Kartheek Solipuram
+    * George Spasov
+    * Tomasz Stanczak
     * Conor Svensson
-    * Zachary Williamson
+    * Cale Teeter
+    * Kyle Thomas
+    * John Wolpert (Chair)
   * Governance document: https://github.com/ethereum-oasis/baseline/blob/master/docs/community/governance.md
 * Ethereum OpenRPC - Bootstrapping
   * repos: 
