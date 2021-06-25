@@ -20,6 +20,7 @@ It is overseen by the Ethereum OASIS Project Governing Board:
 * Kyle Thomas, Provide ([@kthomas](https://github.com/kthomas))
 * John Wolpert, Baseline TSC Chair ([@humbitious](https://github.com/humbitious))
 * Jan Brezina, Ernst & Young LLP ([@puncar-dev](https://github.com/puncar-dev))
+* Noam Eppel, Morpheus.Network ([@MorpheusNetwork](https://github.com/MorpheusNetwork)
 
 For information on joining sponsoring these projects or joining the governing board, please contact the OASIS Open Projects Program Manager at [op-admin@oasis-open.org]().
 
