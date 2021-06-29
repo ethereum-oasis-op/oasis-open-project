@@ -1,3 +1,5 @@
+<img src="artwork/eea-oneline.png" width="400">
+
 # EEA Community Projects, an OASIS Managed Open Project
 
 EEA Community Projects, an OASIS Managed Open Project, exists to provide a neutral forum for diverse stakeholders to create high-quality specifications that facilitate Ethereum’s longevity, interoperability, and ease of integration. The EEA Community Projects intend to develop clear, open standards, high-quality documentation, and shared test suites that facilitate new features and enhancements to the Ethereum protocol.
@@ -7,7 +9,7 @@ For more information on the goals of this effort, see the [project charter](./PR
 ## Governance
 The EEA Community Projects operate under the terms of the [OASIS Open Project Rules](https://github.com/oasis-open-projects/documentation/blob/master/board-docs/open-projects-rules.md), its [Project Governance Document](https://github.com/ethereum-oasis/oasis-open-project/blob/master/GOVERNANCE.md) and the applicable license(s) specified in [LICENSE.md](./LICENSE).
 
-It is overseen by the [EEA-OASIS Project Governing Board](PROJECT-GOVERNING-BOARD.md).
+It is overseen by the [EEA Community Projects Governing Board](PROJECT-GOVERNING-BOARD.md).
 
 ## List of projects & TSCs
 Each EEA Community Project is managed by a Technical Steering Committee and overseen by the Project Governing Board.
