@@ -1,3 +1,5 @@
+<img src="artwork/eea-oneline.png" width="400">
+
 # Become an EEA Community Projects Sponsor
 
 EEA Community Projects are supported by an international alliance of organizations committed to advancing the open source development of interoperability standards for the Ethereum community. New members are welcome.
