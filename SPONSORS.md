@@ -13,5 +13,5 @@ EEA Community Projects thank the following organizations who generously support 
 - [Morpheus.Network](https://morpheus.network/) &bigstar; 
 - [Nethermind](https://nethermind.io/) &bigstar; 
 - [Provide](https://provide.services/) &bigstar; 
-- [Splunk](https://www.splunk.com/)
+- [Splunk](https://www.splunk.com/) &bigstar;
 - [Unibright](https://unibright.io/) &bigstar; 
