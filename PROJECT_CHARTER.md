@@ -1,17 +1,14 @@
-# Ethereum OASIS Open Project Charter 
+<img src="artwork/eea-oneline.png" width="400">
+
+# EEA Community Projects Charter 
 
 ## 1. Project Name
-### 1.1 Full Name
 
-Ethereum OASIS Open Project
-
-### 1.2 Familiar Name
-
-Ethereum OASIS Project
+EEA Community Projects
 
 ## 2. Abstract
 
-The Ethereum OASIS Project exists to provide a neutral forum for diverse stakeholders to create high-quality specifications that facilitate Ethereum’s longevity, interoperability, and ease of integration. The Ethereum OASIS Project intends to develop clear, open standards, high-quality documentation, and shared test suites that facilitate new features and enhancements to the Ethereum protocol.
+EEA Community Projects, a Managed OASIS Open Project, exists to provide a neutral forum for diverse stakeholders to create high-quality specifications that facilitate Ethereum’s longevity, interoperability, and ease of integration. The Ethereum OASIS Project intends to develop clear, open standards, high-quality documentation, and shared test suites that facilitate new features and enhancements to the Ethereum protocol.
 
 ## 3. Purpose and Scope
 
