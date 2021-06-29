@@ -1,0 +1,51 @@
+# EEA Community Projects Charter 
+
+## 1. Project Name
+### 1.1 Full Name
+
+EEA Community Projects
+
+### 1.2 Familiar Name
+
+eea-community-projects
+
+## 2. Abstract
+
+EEA Community Projects is the hub for open source-based standards developments in the Ethereum industry. It provides a central forum for diverse stakeholders to create high-quality specifications that facilitate Ethereum’s longevity, interoperability, and ease of integration. The Ethereum OASIS Project intends to develop clear, open standards, high-quality documentation, and shared test suites that facilitate new features and enhancements to the Ethereum protocol.
+
+## 3. Purpose and Scope
+
+The EEA Community Projects provide support for open source development of code, APIs, standards, and reference implementations. The work is led by EEA, managed under the OASIS Open process, and driven by the community at large. 
+
+Everyone is welcome to contribute to existing projects or put forward suggestions for new community projects. EEA members who wish to pursue a technical specification that supports the requirements of their specific industry or areas of interest can participate in EEA's member-driven interest and working groups. EEA members exchange information, share use cases, and work together to ensure that any resulting technical specifications support their particular needs.
+
+## 4. Business Benefits
+
+The EEA Community Projects are for:
+
+* developers who wish to contribute to and shape the development of Ethereum and related applications;
+* developers who wish to integrate Ethereum with other projects;
+* project managers who wish to have a hand in Ethereum standards governance; and
+* those who prefer working within a more structured standards process.
+
+Common reasons for following this project are to:
+
+* see which Technical Steering Committees are active and their goals.
+* stay abreast of the latest standards available for integrating into your own projects.
+* engage with Ethereum's development and standards in a more structured environment. 
+
+## 5. Relationship to Other Projects
+
+* [Bitcoin Improvement Proposals](https://bitcoincore.org/en/bips/) --- Bitcoin Core is usually more conservative in the upgrades they push forward, but ideas which start in Bitcoin will often make their way into the EIP or Ethereum OASIS Project.
+
+* [Ethereum Improvement Proposals](https://eips.ethereum.org) --- The Ethereum EIP process is less structured than the OASIS process---essentially anyone can create an EIP.  This sometimes creates confusion as different clients implement different EIPs.  One goal of the Ethereum Open Standards Project is to reduce the number of competing standards.  Exactly the right complementary relationship between EIPs and the Ethereum OASIS Open Project will be determined as we go.
+
+* [Ethereum Classic Improvement Proposals](https://github.com/ethereumproject/ECIPs) --- The equivalent of the EIP process for [Ethereum Classic](https://ethereumclassic.org/).
+
+* [Ethereum Enterprise Alliance standards](https://entethalliance.org/technical-documents/) --- The EEA takes work from EIPs and other mainnet Ethereum standards to synthesize a recommended standard for permissioned-chains that wish to be maximally compatible with mainnet Ethereum.
+
+
+## 6. Repositories and Licenses
+
+Apache-2
+
