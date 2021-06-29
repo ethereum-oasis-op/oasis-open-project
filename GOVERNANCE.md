@@ -1,15 +1,17 @@
-# Ethereum OASIS Project Governance
+<img src="artwork/eea-oneline.png" width="400">
 
-This document defines the Ethereum OASIS Open Project's community governance per [OASIS Open Projects Governance Policy](https://github.com/oasis-open-projects/documentation/blob/master/policy/project-governance.md).
+# EEA Community Projects Governance
+
+This document defines the EEA Community Project's community governance per [OASIS Open Projects Governance Policy](https://github.com/oasis-open-projects/documentation/blob/master/policy/project-governance.md).
 
 # Our Goal
-Our primary goal is to increase the minimum quality of Ethereum-related standards.  We aim for the mean quality of standards that pass through our process to be greater than the mean quality that have not.
+Our primary goal is to provide a neutral forum for diverse stakeholders to create high-quality specifications that facilitate Ethereum’s longevity, interoperability, and ease of integration. The EEA Community Projects intend to develop clear, open standards, high-quality documentation, and shared test suites that facilitate new features and enhancements to the Ethereum protocol.
 
 ## Overview
 
-The **Ethereum OASIS Open Project** community is governed by this document and in accordance with [OASIS Open Project Rules](../board-docs/open-projects-rules.md). The purpose of this document is to definine how community should work together to achieve its technical goals.
+The **EEA Community Projects** community is governed by this document and in accordance with [OASIS Open Project Rules](https://www.oasis-open.org/policies-guidelines/open-projects-process/). The purpose of this document is to definine how community should work together to achieve its technical goals.
 
-The Ethereum OASIS Open Project aims to work by lazy consensus within each TSC, as described under [Decision Making](#decision-making) below.  Each TSC is responsible for determining when it has lazy consensus. 
+EEA Community Projects aims to work by lazy consensus within each TSC, as described under [Decision Making](#decision-making) below.  Each TSC is responsible for determining when it has lazy consensus. 
 
 Within a TSC, those who show up and do the work get to make the decisions.
 
@@ -17,7 +19,7 @@ The TSC should be open to changing decisions based on new information, if a cons
 
 ## Code Repositories
 
-The following code repositories are governed by the **Ethereum OASIS Open Project** community and maintained under the project namespace:
+The following code repositories are governed by the **EEA Community Projects** community and maintained under the project namespace:
 
 * **[Ethereum OASIS Project repository](https://github.com/ethereum-oasis/oasis-open-project):** The main repository.
 * **[baseline](https://github.com/ethereum-oasis/baseline)**
@@ -82,15 +84,15 @@ Note that the PGB may permit the formation or continuation of a TSC that does no
 
 ### TSC funding
 
-The Ethereum OASIS Open Project supports all of its TSCs.  However, if a TSC would like additional resources, beyond those provided by default by OASIS, to support its initiatives, it may seek additional funding.
-* Only Ethereum Open Project Sponsors may do this.  Any Sponsor may provide additional funding through OASIS that is designated for a specific TSC to allocate.
+EEA Community Projects supports all of its TSCs.  However, if a TSC would like additional resources, beyond those provided by default by OASIS, to support its initiatives, it may seek additional funding.
+* Only EEA Community Projects Sponsors may do this.  Any Sponsor may provide additional funding through OASIS that is designated for a specific TSC to allocate.
 * No advance vote or approval by the PGB is required.
 * The TSC determines where to direct the funds collected, either directly or via a process they establish.
-* The TSC and its projects may not use the OASIS or Ethereum Open Project names when seeking or using additional funding unless the PGB has been notified in advance.  
+* The TSC and its projects may not use the OASIS or EEA Community Projects names when seeking or using additional funding unless the PGB has been notified in advance.  
 * The TSC must give advance notice to the PGB before disbursement of any funds.
-* The PGB may veto the acquisition or use of such funding at any time for any reason; the intent is to ensure that the acquisition and use of any such funding is consistent with the overall goals of the Ethereum Open Project.
+* The PGB may veto the acquisition or use of such funding at any time for any reason; the intent is to ensure that the acquisition and use of any such funding is consistent with the overall goals of the EEA Community Projects.
 
-If a TSC chooses to seek funding outside of the OASIS funding path, they still must not use the OASIS, Ethereum Open Project, or TSC project names when seeking or using additional funding unless the PGB has been notified in advance.
+If a TSC chooses to seek funding outside of the OASIS funding path, they still must not use the OASIS, EEA Community Projects, or TSC project names when seeking or using additional funding unless the PGB has been notified in advance.
 
 ## Closing a TSC
 
