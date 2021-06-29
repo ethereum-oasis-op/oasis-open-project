@@ -1,10 +1,10 @@
 <img src="artwork/" width="200">
 
-# EEA-OASIS Project Governing Board (PGB)
+# EEA Community Projects Governing Board (PGB)
 
-The Project Governing Board sets overall strategic direction for the EEA-OASIS Community Projects and formally approves released work products.
+The Project Governing Board sets overall strategic direction for the EEA Community Projects and formally approves released work products.
 
-PGB members include representatives of [EEA-OASIS Community Projects sponsor organizations]() and representatives from the community at-large who serve on the Technical Steering Committee:
+PGB members include representatives of [EEA Community Projects sponsor organizations]() and representatives from the community at-large who serve on the Technical Steering Committee:
 
 * Daniel Burnett, Enterprise Ethereum Alliance ([@burnburn](https://github.com/burnburn))
 * Tas Dienes, Ethereum Foundation ([@tasdienes](https://github.com/tasdienes))
@@ -18,4 +18,4 @@ PGB members include representatives of [EEA-OASIS Community Projects sponsor org
 * Jan Brezina, Ernst & Young LLP ([@puncar-dev](https://github.com/puncar-dev))
 * Noam Eppel, Morpheus.Network ([@MorpheusNetwork](https://github.com/MorpheusNetwork))
 
-For information on joining sponsoring these projects or joining the governing board, please contact the OASIS Open Projects Program Manager at [op-admin@oasis-open.org]().
+For information on joining sponsoring these projects or joining the governing board, please contact [communications@oasis-open.org.](mailto:communications@oasis-open.org).
