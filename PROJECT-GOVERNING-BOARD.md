@@ -1,4 +1,4 @@
-<img src="artwork/eea-oneline.png" width="200">
+<img src="artwork/eea-oneline.png" width="400">
 
 # EEA Community Projects Governing Board (PGB)
 
