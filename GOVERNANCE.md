@@ -21,9 +21,9 @@ The TSC should be open to changing decisions based on new information, if a cons
 
 The following code repositories are governed by the **EEA Community Projects** community and maintained under the project namespace:
 
-* **[Ethereum OASIS Project repository](https://github.com/ethereum-oasis/oasis-open-project):** The main repository.
-* **[baseline](https://github.com/ethereum-oasis/baseline)**
-* **[baseline-website](https://github.com/ethereum-oasis/baseline-website)**
+* **[EEA Community Projects repository](https://github.com/eea-oasis/oasis-open-project):** The main repository.
+* **[baseline](https://github.com/eea-oasis/baseline)**
+* **[baseline-website](https://github.com/eea-oasis/baseline-website)**
 
 ## Community Roles
 
