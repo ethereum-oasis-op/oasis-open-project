@@ -6,6 +6,8 @@ EEA Community Projects, an OASIS Managed Open Project, exists to provide a neutr
 
 For more information on the goals of this effort, see the [project charter](./PROJECT_CHARTER.md).
 
+You can also sign up for [the EEA Community Projects email group](https://lists.oasis-open-projects.org/g/eea-community-projects) to receive occasional official notifications and discussions.
+
 ## Governance
 The EEA Community Projects operate under the terms of the [OASIS Open Project Rules](https://github.com/oasis-open-projects/documentation/blob/master/board-docs/open-projects-rules.md), its [Project Governance Document](https://github.com/ethereum-oasis/oasis-open-project/blob/master/GOVERNANCE.md) and the applicable license(s) specified in [LICENSE.md](./LICENSE).
 
