@@ -34,7 +34,7 @@ Each EEA Community Project is managed by a Technical Steering Committee and over
     * Cale Teeter
     * Kyle Thomas
     * John Wolpert (Chair)
-  * Governance document: https://github.com/ethereum-oasis/baseline/blob/master/docs/community/governance.md
+  * Governance document: https://github.com/eea-oasis/baseline/blob/master/docs/community/governance.md
 * Ethereum OpenRPC - Bootstrapping
   * repos:
   * website:
