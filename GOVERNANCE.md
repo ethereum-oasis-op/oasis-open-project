@@ -27,7 +27,7 @@ The following code repositories are governed by the **EEA Community Projects** c
 
 ## Community Roles
 
-All members of the community must complete and abide by the [Required Legal Agreements](#Required-Legal-Agreements), which includes abiding by the [OASIS Open Projects Code of Conduct](https://github.com/oasis-open-projects/documentation/blob/master/CODE_OF_CONDUCT.md). Failure to meet these requirements means a contributor is no longer eligible to participate.
+All members of the community must complete and abide by the [Required Legal Agreements](#Required-Legal-Agreements), which includes abiding by the [OASIS Open Projects Code of Conduct](./CODE-OF-CONDUCT.md). Failure to meet these requirements means a contributor is no longer eligible to participate.
 
 * *Contributor*: People who have contributed to a TSC repository in the last 2 years. Anyone can be a contributor, so long as they agree to contribute under the terms of this document.
 * *Technical Steering Committee (TSC) chair*: one or more persons appointed by the Project Governing Board to ensure the TSC runs smoothly. The chair is empowered to suspend a contributor temporarily or permanently (for example for egregiously or repeatedly breaching the Code of Conduct). Appeals can be sent to the PGB under the same 2/3 majority rule used for overturning consensus decisions.
@@ -47,7 +47,7 @@ The **Project Governance Board** (**PGB**)'s responsibility is to ensure that ev
   * appoint its own chair;
   * change this governance document.
 
-The **PGB** also follows and is responsible for upholding the [OASIS Open Projects Rules](https://github.com/oasis-open-projects/documentation/blob/master/board-docs/open-projects-rules.md).
+The **PGB** also follows and is responsible for upholding the [OASIS Open Projects Rules](https://www.oasis-open.org/policies-guidelines/open-projects-process/).
 
 
 ### PGB Membership
