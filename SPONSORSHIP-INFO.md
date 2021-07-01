@@ -6,7 +6,7 @@ EEA Community Projects are supported by an international alliance of organizatio
 
 The main reason to sponsor EEA Community Projects is to ensure your organization--and the world--can reap the benefits of high-quality specifications that facilitate Ethereum’s longevity, interoperability, and ease of integration.
 
-[EEA Community Projects Sponsors](https://github.com/eea-community-projects/oasis-open-project/blob/main/SPONSORS.md) are recognized for their leadership in several ways.  
+[EEA Community Projects Sponsors](https://github.com/eea-oasis/managed-open-project/blob/master/SPONSORS.md) are recognized for their leadership in several ways.  
 
 ## Governance benefits
 Each Sponsor organization has the option to hold a seat on the EEA Community Projects Governing Board where they:
