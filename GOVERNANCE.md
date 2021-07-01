@@ -52,7 +52,7 @@ The **PGB** also follows and is responsible for upholding the [OASIS Open Projec
 
 ### PGB Membership
 
-The PGB is comprised of one representative from each Sponsoring organization. Additionally, each TSC Chair is a member of the PGB. The PGB roster is maintained [here](https://github.com/eea-oasis/oasis-open-project/blob/master/PROJECT-GOVERNING-BOARD.md)
+The PGB is comprised of one representative from each Sponsoring organization. Additionally, each TSC Chair is a member of the PGB. The PGB roster is maintained [here](https://github.com/eea-oasis/managed-open-project/blob/master/PROJECT-GOVERNING-BOARD.md)
 
 ### Becoming an Editor
 
