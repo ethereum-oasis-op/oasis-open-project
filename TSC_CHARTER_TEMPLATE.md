@@ -8,14 +8,14 @@
 3. Project Use Case (Value statement in one sentence)
 4. Project Description (Detailed)
 5. Project value to end user
-6. Project contribution to the [Ethereum OASIS Open Project goals and mission](https://github.com/ethereum-oasis/oasis-open-project/blob/master/PROJECT_CHARTER.md#2-abstract)
-7. Why, in your opinion, is the Ethereum OASIS Open Project the most appropriate host for this project?
+6. Project contribution to the [EEA Community Projects goals and mission](./PROJECT_CHARTER.md#2-abstract)
+7. Why, in your opinion, is the EEA Community Projects the most appropriate host for this project?
 
-7. What support are you looking for from Ethereum OASIS Open Project members?
+7. What support are you looking for from EEA Community Projects members?
 
 8. Is this an existing project? If so, link to web page / repo
  
-9. Does this project integrate with any existing Ethereum OASIS Open Project projects or deliverables?
+9. Does this project integrate with any existing EEA Community Projects projects or deliverables?
 
 ---
 
