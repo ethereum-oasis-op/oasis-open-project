@@ -17,5 +17,6 @@ PGB members include representatives of [EEA Community Projects sponsor organizat
 * John Wolpert, Baseline TSC Chair ([@humbitious](https://github.com/humbitious))
 * Jan Brezina, Ernst & Young LLP ([@puncar-dev](https://github.com/puncar-dev))
 * Noam Eppel, Morpheus.Network ([@MorpheusNetwork](https://github.com/MorpheusNetwork))
+* Melanie Marsollier, Splunk ([@Mel-Marsollier](https://github.com/Mel-Marsollier))
 
 For information on joining sponsoring these projects or joining the governing board, please contact [communications@oasis-open.org.](mailto:communications@oasis-open.org).
