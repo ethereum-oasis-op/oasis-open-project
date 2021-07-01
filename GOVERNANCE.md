@@ -159,9 +159,9 @@ Your goal will be to convince others that your suggestion is a useful addition a
 ## Required Legal Agreements
 Contributors to any TSC project must abide by the [OASIS Open Projects IPR Policy](https://github.com/oasis-open-projects/documentation/blob/master/policy/clas-and-special-covenant.md) and Apache 2.0 License agreement as outlined in the license.md file. 
 
-All contributors are required to make these rights available by signing a [Contributor License Agreement (CLA)](https://github.com/oasis-open-projects/documentation/blob/master/templates/individual-cla.md) and patent non-assert for non-trivial contributions releasing all contributions under Apache2. If you have questions about these policies, please contact the [OASIS Open Project Administrator](op-admin@oasis-open.org). 
+All contributors are required to make these rights available by signing a [Contributor License Agreement (CLA)](https://www.oasis-open.org/open-projects/cla/entity-cla-20210630/) and patent non-assert for non-trivial contributions releasing all contributions under Apache2. If you have questions about these policies, please contact the [OASIS Open Project Administrator](op-admin@oasis-open.org). 
 
-All participants must also abide by the terms of the [OASIS Open Projects Code of Conduct](https://github.com/oasis-open-projects/documentation/blob/master/CODE_OF_CONDUCT.md).
+All participants must also abide by the terms of the [OASIS Open Projects Code of Conduct](./CODE-OF-CONDUCT.md).
 
 ### Proposal Lifecycle
 
