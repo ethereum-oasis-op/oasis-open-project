@@ -15,7 +15,7 @@ PGB members include representatives of [EEA Community Projects sponsor organizat
 * Stefan Schmidt, Unibright ([@stefschmidt](https://github.com/stefschmidt))
 * Kyle Thomas, Provide ([@kthomas](https://github.com/kthomas))
 * John Wolpert, Baseline TSC Chair ([@humbitious](https://github.com/humbitious))
-* James Canterbury, Ernst & Young LLP ([@puncar-dev](https://github.com/jamescbury))
+* James Canterbury, Ernst & Young LLP ([@jamescbury](https://github.com/jamescbury))
 * Noam Eppel, Morpheus.Network ([@MorpheusNetwork](https://github.com/MorpheusNetwork))
 * Melanie Marsollier, Splunk ([@Mel-Marsollier](https://github.com/Mel-Marsollier))
 
