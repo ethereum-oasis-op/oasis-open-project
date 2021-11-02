@@ -19,5 +19,6 @@ PGB members include representatives of [EEA Community Projects sponsor organizat
 * Noam Eppel, Morpheus.Network ([@MorpheusNetwork](https://github.com/MorpheusNetwork))
 * Melanie Marsollier, Splunk ([@Mel-Marsollier](https://github.com/Mel-Marsollier))
 * Olumide Akinwande, Montech ([@MontechStudiosINC](https://github.com/MontechStudiosINC)
+* Matt Hepler, Arca
 
 For information on joining sponsoring these projects or joining the governing board, please contact [communications@oasis-open.org.](mailto:communications@oasis-open.org).
