@@ -11,6 +11,7 @@ EEA Community Projects thank the following organizations who generously support 
 - [EY](https://www.ey.com/) &bigstar; 
 - [Enterprise Ethererum Alliance](https://entethalliance.org/) &bigstar; 
 - [Ethereum Foundation](https://ethereum.org/foundation/) &bigstar; 
+- [Mover](https://viamover.com/) &bigstar; 
 - [Montech](https://montech.io/) &bigstar;
 - [Morpheus.Network](https://morpheus.network/) &bigstar; 
 - [Nethermind](https://nethermind.io/) &bigstar; 
