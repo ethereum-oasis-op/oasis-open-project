@@ -18,7 +18,7 @@ PGB members include representatives of [EEA Community Projects sponsor organizat
 * James Canterbury, Ernst & Young LLP ([@jamescbury](https://github.com/jamescbury))
 * Noam Eppel, Morpheus.Network ([@MorpheusNetwork](https://github.com/MorpheusNetwork))
 * Melanie Marsollier, Splunk ([@Mel-Marsollier](https://github.com/Mel-Marsollier))
-* Olumide Akinwande, Montech ([@MontechStudiosINC](https://github.com/MontechStudiosINC)
+* Olumide Akinwande, Montech ([@MontechStudiosINC](https://github.com/MontechStudiosINC))
 * Matt Hepler, Arca
 * Anton Mozgovoy, Mover
 
