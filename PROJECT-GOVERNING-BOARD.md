@@ -21,5 +21,6 @@ PGB members include representatives of [EEA Community Projects sponsor organizat
 * Olumide Akinwande, Montech ([@MontechStudiosINC](https://github.com/MontechStudiosINC))
 * Matt Hepler, Arca
 * Anton Mozgovoy, Mover
+* Mehran Shakeri, SAP ([@mehranshakeri](https://github.com/mehranshakeri)
 
-For information on joining sponsoring these projects or joining the governing board, please contact [communications@oasis-open.org.](mailto:communications@oasis-open.org).
+For information on joining sponsoring these projects or joining the governing board, please contact [communications@oasis-open.org](mailto:communications@oasis-open.org).
