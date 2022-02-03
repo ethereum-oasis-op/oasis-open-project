@@ -23,7 +23,8 @@ The following code repositories are governed by the **EEA Community Projects** c
 
 * **[EEA Community Projects repository](https://github.com/eea-oasis/oasis-open-project):** The main repository.
 * **[baseline](https://github.com/eea-oasis/baseline)**
-* **[baseline-website](https://github.com/eea-oasis/baseline-website)**
+* **[baseline-website-v2](https://github.com/eea-oasis/baseline-website-v2)**
+* **[L2](https://github.com/eea-oasis/L2)
 
 ## Community Roles
 
