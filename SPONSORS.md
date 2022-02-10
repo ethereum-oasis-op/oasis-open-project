@@ -8,9 +8,10 @@ EEA Community Projects thank the following organizations who generously support 
 - [Arca](https://www.ar.ca/) &bigstar;
 - [Chainlink](https://chain.link/) &bigstar; 
 - [ConsenSys](https://consensys.net/) &bigstar; 
-- [EY](https://www.ey.com/) &bigstar; 
 - [Enterprise Ethererum Alliance](https://entethalliance.org/) &bigstar; 
+- [Envision Blockchain Solutions](https://envisionblockchain.com/) &bigstar; 
 - [Ethereum Foundation](https://ethereum.org/foundation/) &bigstar; 
+- [EY](https://www.ey.com/) &bigstar; 
 - [Mover](https://viamover.com/) &bigstar; 
 - [Montech](https://montech.io/) &bigstar;
 - [Morpheus.Network](https://morpheus.network/) &bigstar; 
