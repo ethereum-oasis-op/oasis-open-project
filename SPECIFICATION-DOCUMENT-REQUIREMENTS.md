@@ -32,8 +32,8 @@ The following requirements are optional at this stage but become mandatory at la
 * If replacing an existing version of a *Project Specification*, there MUST be a changes section with human-readable explanation of changes made
 * Each requirement in a spec MUST have a URL
 * Each requirement MUST be testable.
-* Specifications SHOULD describe security, privacy and internationalisation/localisation considerations. (For example, can human-readable text include language and direction information [see [string-meta](https://w3c.github.io/string-meta/)]? Is the protocol vulnerable to homoglyph attacks [see [CVE-2021-42574](https://nvd.nist.gov/vuln/detail/CVE-2021-42574)]?)
-* Any requirement obsoleted since a previous version of the *Project Specification* SHOULD have a URL that resolves to somewhere explicitly stating the requirement is gone
+* Specifications MUST describe security, privacy and internationalisation/localisation considerations. (For example, can human-readable text include language and direction information [see [string-meta](https://w3c.github.io/string-meta/)]? Is the protocol vulnerable to homoglyph attacks [see [CVE-2021-42574](https://nvd.nist.gov/vuln/detail/CVE-2021-42574)]?)
+* Any requirement obsoleted since a previous version of the *Project Specification* MUST have a URL that resolves to somewhere explicitly stating the requirement is gone
 
 The following requirements are optional at this stage but become mandatory at later stages:
 
