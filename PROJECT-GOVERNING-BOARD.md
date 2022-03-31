@@ -4,9 +4,9 @@
 
 The Project Governing Board sets overall strategic direction for the EEA Community Projects and formally approves released work products.
 
-PGB members include representatives of [EEA Community Projects sponsor organizations]() and representatives from the community at-large who serve on the Technical Steering Committee:
+PGB members include representatives of [EEA Community Projects sponsor organizations](https://github.com/eea-oasis/managed-open-project/blob/main/SPONSORS.md) and representatives from the community at-large who serve on the Technical Steering Committee.
 
-* Daniel Burnett, Enterprise Ethereum Alliance ([@burnburn](https://github.com/burnburn))
+<!-- * Daniel Burnett, Enterprise Ethereum Alliance ([@burnburn](https://github.com/burnburn))
 * Tas Dienes, Ethereum Foundation ([@tasdienes](https://github.com/tasdienes))
 * Dan Kochis, Chainlink ([@dk21dk](https://github.com/dk21dk))
 * Tracy Kuhrt, Accenture ([@tkuhrt](https://github.com/tkuhrt))
@@ -22,5 +22,5 @@ PGB members include representatives of [EEA Community Projects sponsor organizat
 * Matt Hepler, Arca
 * Anton Mozgovoy, Mover
 * Marcus Krug, SAP 
-
+-->
 For information on joining sponsoring these projects or joining the governing board, please contact [communications@oasis-open.org](mailto:communications@oasis-open.org).
