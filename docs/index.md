@@ -1,4 +1,4 @@
-<img src="eea.png" width="200">
+<img src="eea-oneline.png" width="200">
 
 <h1>EEA Community Projects Governing Board (PGB)</H1>
 
