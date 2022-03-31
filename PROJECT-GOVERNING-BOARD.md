@@ -6,6 +6,8 @@ The Project Governing Board sets overall strategic direction for the EEA Communi
 
 PGB members include representatives of [EEA Community Projects sponsor organizations](https://github.com/eea-oasis/managed-open-project/blob/main/SPONSORS.md) and representatives from the community at-large who serve on the Technical Steering Committee.
 
+The members of the EEA Community Projects Project Governing Board are listed at https://eea-oasis.github.io/managed-open-project/
+
 <!-- * Daniel Burnett, Enterprise Ethereum Alliance ([@burnburn](https://github.com/burnburn))
 * Tas Dienes, Ethereum Foundation ([@tasdienes](https://github.com/tasdienes))
 * Dan Kochis, Chainlink ([@dk21dk](https://github.com/dk21dk))
