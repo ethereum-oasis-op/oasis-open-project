@@ -4,7 +4,7 @@
 
 <p>The Project Governing Board sets overall strategic direction for the EEA Community Projects and formally approves released work products.</p>
 
-<p>PGB members include representatives of <a href="https://github.com/eea-oasis/managed-open-project/blob/main/SPONSORS.md)">EEA Community Projects sponsor organizations</a> and representatives from the community at-large who serve on the Technical Steering Committee.</p>
+<p>PGB members include representatives of [EEA Community Projects sponsor organizations](https://github.com/eea-oasis/managed-open-project/blob/main/SPONSORS.md) and representatives from the community at-large who serve on the Technical Steering Committee.</p>
 
 <p><i>PGB Chairs</i>: Daniel Burnett, Tas Dienes</p> 
 
