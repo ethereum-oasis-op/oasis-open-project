@@ -67,9 +67,9 @@ All PGB members, including the incumbent Chair, are eligible for nomination for 
 
 In the event of a vacancy (such as a co-Chair stepping down prior to the conclusion of their term), an election should be held for a replacement to complete the term.
 
-The process for electing the Chair shall be as follows:  The date for the Chair election shall be announced at least 14 days in advance on the PGB mailing list and copied to the general mailing list. The election shall take place during a regularly scheduled PGB meeting. An invitation to PGB members to nominate themselves or others for Chair must be included. PGB members may nominate themselves by sending an email to the PGB mailing list or in person during a PGB meeting.
+The process for electing the Chair shall be as follows:  
 
-Where a member nominates a third party that nomination must be explicitly accepted by that third party, either verbally at a meeting or by email to the PGB
+- The date for the Chair election shall be announced at least 14 days in advance on the PGB mailing list and copied to the general mailing list. The election shall take place during a regularly scheduled PGB meeting. An invitation to PGB members to nominate themselves or others for Chair must be included. PGB members may nominate themselves by sending an email to the PGB mailing list or in person during a PGB meeting. Where a member nominates a third party that nomination must be explicitly accepted by that third party, either verbally at a meeting or by email to the PGB
 
 - On the day of the election, the sitting Chair shall review the nominations received and then ask for any in-person nominations from the floor.
 
