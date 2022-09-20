@@ -48,7 +48,7 @@ The **Project Governance Board** (**PGB**)'s responsibility is to ensure that ev
   * appoint its own chair;
   * change this governance document.
 
-The **PGB** also follows and is responsible for upholding the [OASIS Open Projects Rules](https://www.oasis-open.org/policies-guidelines/open-projects-process/).
+The PGB also follows and is responsible for upholding the [OASIS Open Projects Rules](https://www.oasis-open.org/policies-guidelines/open-projects-process/), and any [Standing Rules](https://github.com/eea-oasis/managed-open-project/edit/main/STANDING-RULES.md) it adopts.
 
 
 ### PGB Membership
