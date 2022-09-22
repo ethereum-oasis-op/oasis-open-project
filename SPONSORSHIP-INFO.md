@@ -2,9 +2,9 @@
 
 # Become an EEA Community Projects Sponsor
 
-EEA Community Projects are supported by an international alliance of organizations committed to advancing the open source development of interoperability standards for the Ethereum community. New members are welcome.
+EEA Community Projects are supported by an international alliance of organizations committed to advancing the open source development of interoperability standards for the Ethereum community. New sponsors are welcome. You do not need to be a current [EEA member](https://entethalliance.org/eea-members/) to sponsor EEA Community Projects.
 
-The main reason to sponsor EEA Community Projects is to ensure your organization--and the world--can reap the benefits of high-quality specifications that facilitate Ethereum’s longevity, interoperability, and ease of integration.
+The main reason to become a sponsor is to ensure your organization--and the world--can reap the benefits of high-quality specifications that facilitate Ethereum’s longevity, interoperability, and ease of integration.
 
 [EEA Community Projects Sponsors](https://github.com/eea-oasis/managed-open-project/blob/master/SPONSORS.md) are recognized for their leadership in several ways.  
 
@@ -28,7 +28,7 @@ Sponsors receive exclusive visibility for their support. They:
 * May use the EEA Community Projects logo to promote their sponsorship
 
 ## Sponsorship Levels
-Each organization pays annual [Project Sponsorship dues](https://www.oasis-open.org/join/#membership-dues-op) based on its total employee headcount. Dues are administered by OASIS Open and used to provide core services including vendor-neutral governance, technical administration, IP management, collaboration tools, community support, and outreach.
+Each organization pays annual [Project Sponsorship dues](https://www.oasis-open.org/join-an-open-project/) based on its total employee headcount. Dues are administered by OASIS Open and used to provide core services including vendor-neutral governance, technical administration, IP management, collaboration tools, community support, and outreach.
 
 We encourage all organizations that benefit from EEA Community Projects standards to sponsor this important, nonprofit initiative. For information on becoming a Sponsor, [contact OASIS](mailto:communications@oasis-open.org).
 
