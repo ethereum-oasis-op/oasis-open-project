@@ -92,14 +92,25 @@ Note that the PGB may permit the formation or continuation of a TSC that does no
 ### TSC funding
 
 EEA Community Projects supports all of its TSCs.  However, if a TSC would like additional resources, beyond those provided by default by OASIS, to support its initiatives, it may seek additional funding.
-* Only EEA Community Projects Sponsors may do this.  Any Sponsor may provide additional funding through OASIS that is designated for a specific TSC to allocate.
-* No advance vote or approval by the PGB is required.
-* The TSC determines where to direct the funds collected, either directly or via a process they establish.
+
+Any Sponsor may provide additional funding through OASIS that is designated for a specific TSC to allocate.  Non-Sponsors may contribute additional funding as described in [Non-Sponsor TSC funding](#non-sponsor-tsc-funding).
+
+Programs designed to solicit grants may be specific to individual TSCs.
+
+In all cases,
+* Grantors must be informed, before funds are committed, of any fees that will be deducted from their grants.
+* No advance vote or approval by the PGB is required to accept a grant or allocate the funds.  However, the TSC must give advance notice to the PGB before disbursement of any funds.
+* Either OASIS or the PGB may veto the acquisition or use of such funding at any time for any reason.  A statement to this effect must be included on any grants form. The intent of this requirement is to ensure that the acquisition and use of any such funding is consistent with the overall goals of OASIS and the EEA Community Projects.
+* The TSC determines where to direct the funds collected, either directly or via a process they establish.  Note that Grantors have no direct control over use of funds within a TSC and thus cannot use this funding mechanism to direct priorities within the TSC.
 * The TSC and its projects may not use the OASIS or EEA Community Projects names when seeking or using additional funding unless the PGB has been notified in advance.  
-* The TSC must give advance notice to the PGB before disbursement of any funds.
-* The PGB may veto the acquisition or use of such funding at any time for any reason; the intent is to ensure that the acquisition and use of any such funding is consistent with the overall goals of the EEA Community Projects.
 
 If a TSC chooses to seek funding outside of the OASIS funding path, they still must not use the OASIS, EEA Community Projects, or TSC project names when seeking or using additional funding unless the PGB has been notified in advance.
+
+#### Non-Sponsor TSC funding
+
+Non-Sponsors of the EEA Community Projects may fund grants at any time and in any amount. After deducting any administration fees assessed by the transaction processor, 25% of the proceeds  will be used to fund Core Services, including marketing, with the remainder available for allocation by the TSC.
+
+Grantors must be informed, before funds are committed, of the 25% assessment for Core Services. 
 
 ## Closing a TSC
 
