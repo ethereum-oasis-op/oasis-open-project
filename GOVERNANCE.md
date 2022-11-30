@@ -53,7 +53,13 @@ The PGB also follows and is responsible for upholding the [OASIS Open Projects R
 
 ### PGB Membership
 
-The PGB is comprised of one representative from each Sponsoring organization. Additionally, each TSC Chair is a member of the PGB. The PGB roster is maintained [here](https://github.com/eea-oasis/managed-open-project/blob/master/PROJECT-GOVERNING-BOARD.md)
+The PGB is comprised of one representative from each Sponsoring organization, along with TSC representatives as follows. 
+
+The TSC may appoint one, and only one, TSC member to be its representative on the PGB and vote on the PGB, and that person does not have to be a chair. As with all PGB members, this representative's participation is governed by [OASIS Open Project Rules section 15.3](https://www.oasis-open.org/policies-guidelines/open-projects-process/#repository-specification-licenses-special-covenant).
+
+Non-voting guests are permitted at PGB meetings by advance invitation of a PGB chair.
+
+The PGB roster is maintained [here](https://github.com/eea-oasis/managed-open-project/blob/master/PROJECT-GOVERNING-BOARD.md).
 
 ### Becoming an Editor
 
@@ -69,7 +75,7 @@ As defined in [Decision Making](#Decision-Making), Editors are empowered to inte
 
 To start a new TSC, there must be
 * a request from at least three sponsoring organizations who commit to participating
-* a named Chair and Vice Chair who have agreed to the expectations for chairs
+* one or more co-Chairs who have agreed to the expectations for chairs
 
 Although it is not required, ideally a proposed TSC will have at least 5 initial participants.
 
