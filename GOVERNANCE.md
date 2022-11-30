@@ -61,6 +61,30 @@ Non-voting guests are permitted at PGB meetings by advance invitation of a PGB c
 
 The PGB roster is maintained [here](https://github.com/eea-oasis/managed-open-project/blob/master/PROJECT-GOVERNING-BOARD.md).
 
+#### PGB Chairs
+
+The PGB must have a Chair or two co-Chairs. Only members of the committee are eligible to be Chair or co-Chair.  For the remainder of this section, Chair shall mean either the single Chair or each of the two co-Chairs, whichever the group has.
+
+The Chair is elected by Full Majority Vote of the committee. If the committee does not have a Chair, then all activities, with the exception of the selection of a new Chair, are suspended.
+
+Existing Chairs serve until they resign or are replaced in an election.  Elections should be held every two years.
+
+All PGB members, including the incumbent Chair, are eligible for nomination for the office.
+
+In the event of a vacancy (such as a co-Chair stepping down prior to the conclusion of their term), an election should be held for a replacement to complete the term.
+
+The process for electing the Chair shall be as follows:  
+
+- The date for the Chair election shall be announced at least 14 days in advance on the PGB mailing list and copied to the general mailing list. The election shall take place during a regularly scheduled PGB meeting. An invitation to PGB members to nominate themselves or others for Chair must be included. PGB members may nominate themselves by sending an email to the PGB mailing list or in person during a PGB meeting. Where a member nominates a third party that nomination must be explicitly accepted by that third party, either verbally at a meeting or by email to the PGB.
+
+- On the day of the election, the sitting Chair shall review the nominations received and then ask for any in-person nominations from the floor.
+
+- If only one candidate is standing for Chair, the sitting Chair shall ask for objections to the candidate's approval. If no objections are heard, the new Chair will be declared elected by unanimous approval and the sitting Chair shall turn the meeting over to the new Chair. If an objection is heard, the sitting Chair shall take a roll call vote.
+
+- If two or more candidates are standing for Chair (or either Chair position, if the election is for two co-Chairs), the sitting Chair shall hold a roll call vote. The winning candidate must still reach Full Majority in order to win election.
+
+- If the meeting either does not or mathematically could not reach a Full Majority Vote, the sitting Chair may declare that the election will be held by 7-day electronic ballot. If only one candidate is standing, the sitting chair may state the ballot as a call for objections. If, after 7 days, no objections have been received, the new Chair will be declared elected by unanimous approval. 
+
 ### Becoming an Editor
 
 Editors are appointed (or removed) by the relevant TSC chair(s). Any Contributor is eligible to be an Editor.
