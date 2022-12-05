@@ -24,18 +24,7 @@ Each EEA Community Project is managed by a Technical Steering Committee and over
   * email list: [baseline@lists.oasis-open-projects.org](https://lists.oasis-open-projects.org/g/baseline)
   * chat: [Slack](https://communityinviter.com/apps/ethereum-baseline/join-us)
   * twitter: [@baselineproto](https://twitter.com/baselineproto)
-  * TSC Members:
-    * Brian Chamberlain
-    * Hudson Jameson
-    * Anais Ofranc
-    * Stefan Schmidt
-    * Kartheek Solipuram
-    * George Spasov
-    * Tomasz Stanczak
-    * Conor Svensson
-    * Cale Teeter
-    * Kyle Thomas
-    * John Wolpert (Chair)
+  * TSC Members: [https://github.com/eea-oasis/baseline/blob/main/TECHNICAL-STEERING-COMMITTEE.md](https://github.com/eea-oasis/baseline/blob/main/TECHNICAL-STEERING-COMMITTEE.md)
   * Governance document: https://github.com/eea-oasis/baseline/blob/master/docs/community/governance.md
 * Ethereum OpenRPC - Bootstrapping
   * repos:
