@@ -31,7 +31,7 @@ The following code repositories are governed by the **EEA Community Projects** c
 All members of the community must complete and abide by the [Required Legal Agreements](#Required-Legal-Agreements), which includes abiding by the [OASIS Open Projects Code of Conduct](./CODE-OF-CONDUCT.md). Failure to meet these requirements means a contributor is no longer eligible to participate.
 
 * *Contributor*: People who have contributed to a TSC repository in the last 2 years. Anyone can be a contributor, so long as they agree to contribute under the terms of this document.
-* *Technical Steering Committee (TSC) chair*: one or more persons appointed by the Project Governing Board to ensure the TSC runs smoothly. The chair is empowered to suspend a contributor temporarily or permanently (for example for egregiously or repeatedly breaching the Code of Conduct). Appeals can be sent to the PGB under the same Special Majority rule used for overturning consensus decisions.
+* *Technical Steering Committee (TSC) chair*: one or more persons appointed by the Project Governing Board to ensure the TSC runs smoothly. 
 * *Project Governing Board (PGB)*: The Project Governing Board is charged with ensuring the overall project runs smoothly, as described below.
 
 
@@ -113,7 +113,7 @@ Everyday TSC decisions will be reached by [lazy consensus](https://communitymgt.
 
 If the chairs of a TSC determine that consensus is not possible, then the TSC will not publish any output. 
 
-Any TSC lazy consensus decision can be overturned by a $\geq 2/3$ majority of the PGB at the request of a TSC contributor.
+Any TSC lazy consensus decision can be overturned by a Special Majority vote of the PGB at the request of a TSC contributor.
 
 The PGB is unlikely to overturn a decision based on a single objection from a contributor who has barely participated, or an apparent "[branch-stacking](https://en.wikipedia.org/wiki/Branch_stacking)" (aka Room Packing) exercise. 
 
