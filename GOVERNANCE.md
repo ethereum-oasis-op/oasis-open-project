@@ -40,9 +40,14 @@ All members of the community must complete and abide by the [Required Legal Agre
 Each **Technical Steering Committee** (**TSC**) has a chair (or co-chairs) appointed (or removed) by the PGB. The chair of a TSC is responsible in the first instance for the day-to-day functioning of the TSC.  The chair of each TSC should have a firm understanding of the technology under the TSC's purview, and the [skills of a Technical Project Manager](https://www.jobhero.com/technical-program-manager-job-description/).
 
 ### Project Governance Board
-The **Project Governance Board** (**PGB**)'s responsibility is to ensure that every TSC is running reasonably well. With a [special majority](#Special-Majority-Vote), the PGB can
+The **Project Governance Board** (**PGB**)'s responsibility is to ensure that every TSC is running reasonably well. 
+
+With a Simple Majority Vote, the PGB can
+* appoint a TSC chair or co-chairs as recommended by the TSC
+
+With a [special majority](#Special-Majority-Vote), the PGB can
   * overturn or confirm a TSC's declared consensus;
-  * replace a TSC chair;
+  * replace a TSC chair, before the end of the chair's term, when the chair has previously been appointed by the PGB;
   * determine that a participant has failed to abide by the Code of Conduct, and declare them ineligible to participate for a term the PGB decides;
   * create or close TSCs;
   * appoint its own chair;
@@ -177,7 +182,7 @@ Lazy consensus does _not_ apply to some PGB decisions identified elsewhere in th
 
 A Special Majority Vote is a vote in which at least 2/3 (two thirds) of the eligible voters vote "yes" and no more than 1/4 (one fourth) of the eligible voters vote "no". These numbers are based on the total number of eligible voters in the committee. Abstentions are not counted. For example, in a Committee in which there are 30 Voting Members, at least 20 Voting Members must vote "yes" for a motion to pass; but if 8 or more vote "no" then the motion fails.
 
-Certain issues require a Special Majority Vote of the PGB, such as appointing TSC chairs or changing this governance document.
+Certain issues require a Special Majority Vote of the PGB, such as changing this governance document.
 
 ## Proposal Process
 Large changes, including new features, should be preceded by a proposal. This process allows for all members of the community to weigh in on the concept (including the technical details), share their comments, ideas, and use cases, and offer to help. It also ensures that members are not duplicating work or inadvertently stepping on toes by making large conflicting changes.
