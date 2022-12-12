@@ -10,9 +10,7 @@ EEA Community Projects thank the following organizations who generously support 
 - [Envision Blockchain Solutions](https://envisionblockchain.com/) &bigstar; 
 - [Ethereum Foundation](https://ethereum.org/foundation/) &bigstar; 
 - [EY](https://www.ey.com/) &bigstar; 
-- [Mover](https://viamover.com/) &bigstar; 
 - [Montech](https://montech.io/) &bigstar;
-- [Morpheus.Network](https://morpheus.network/) &bigstar; 
 - [Nethermind](https://nethermind.io/) &bigstar; 
 - [Provide](https://provide.services/) &bigstar; 
 - [SAP](https://www.sap.com/) &bigstar; 
