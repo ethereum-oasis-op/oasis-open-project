@@ -12,5 +12,4 @@ EEA Community Projects thank the following organizations who generously support 
 - [Montech](https://montech.io/) &bigstar;
 - [Nethermind](https://nethermind.io/) &bigstar; 
 - [Provide](https://provide.services/) &bigstar; 
-- [SAP](https://www.sap.com/) &bigstar; 
 - [Unibright](https://unibright.io/) &bigstar; 
