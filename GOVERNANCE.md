@@ -102,11 +102,11 @@ As defined in [Decision Making](#Decision-Making), Editors are empowered to inte
 
 ### Initial requirements
 
-To start a new TSC, there must be
-* a request from at least three sponsoring organizations who commit to participating
-* one or more co-Chairs who have agreed to the expectations for chairs
-
-Although it is not required, ideally a proposed TSC will have at least 5 initial participants.
+To start a new TSC:
+* At least one sponsoring organization must commit to participating in the new TSC (this may be an existing sponsor)
+* There is an expectation that at least one new organization commit to becoming a sponsor and participating in the new TSC, or more if the project size and resource requirements justify it
+* At least 3 organziations must commit to participating in the TSC (which may include non-sponsors)
+* Although it is not required, ideally a proposed TSC will have at least 5 initial participants (which may include multiple particpants from some organizations)
 
 ### Maintenance requirements
 
