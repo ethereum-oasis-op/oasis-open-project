@@ -26,13 +26,23 @@ Each EEA Community Project is managed by a Technical Steering Committee and over
   * twitter: [@baselineproto](https://twitter.com/baselineproto)
   * TSC Members: [https://github.com/eea-oasis/baseline/blob/main/TECHNICAL-STEERING-COMMITTEE.md](https://github.com/eea-oasis/baseline/blob/main/TECHNICAL-STEERING-COMMITTEE.md)
   * Governance document: https://github.com/eea-oasis/baseline/blob/master/docs/community/governance.md
-* Ethereum OpenRPC - Bootstrapping
+* L2 Project – Layer 2 Blockchain Scalability Solutions
+  * repo:
+    * [https://github.com/eea-oasis/L2](https://github.com/eea-oasis/L2)  
+  * email list:
+    * [https://lists.oasis-open-projects.org/g/eea-cp-l2](https://lists.oasis-open-projects.org/g/eea-cp-l2)
+  * Chat:
+    * [Slack](https://join.slack.com/t/eeacommunityp-kte2307/shared_invite/zt-1qyb6xi90-85TS9xpU~XG8cK0Feeoofg)
+  * TSC chairs: [Andreas Freund](https://github.com/Therecanbeonlyone1969) and [Daniel Shaw](https://github.com/dshaw)
+
+
+<!-- * Ethereum OpenRPC - Bootstrapping
   * repos:
   * website:
   * email lists:
   * chat:
   * TSC Members:
-  * Governance document:
+  * Governance document:-->
 
 ## Contributing
 Everyone is welcome to contribute to EEA Community Projects - you do not need to be a "member" of anything to submit a technical contribution or get involved with any of the above project communities. Details on how to contribute to EEA Community Projects can be found on the respective repositories listed above.
