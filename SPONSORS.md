@@ -6,7 +6,6 @@ EEA Community Projects thank the following organizations who generously support 
 
 - [ConsenSys](https://consensys.net/) &bigstar; 
 - [Enterprise Ethererum Alliance](https://entethalliance.org/) &bigstar; 
-- [Envision Blockchain Solutions](https://envisionblockchain.com/) &bigstar; 
 - [Ethereum Foundation](https://ethereum.org/foundation/) &bigstar; 
 - [EY](https://www.ey.com/) &bigstar; 
 - [Montech](https://montech.io/) &bigstar;
