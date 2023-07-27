@@ -34,6 +34,12 @@ Each EEA Community Project is managed by a Technical Steering Committee and over
   * Chat:
     * [Slack](https://join.slack.com/t/eeacommunityp-kte2307/shared_invite/zt-1qyb6xi90-85TS9xpU~XG8cK0Feeoofg)
   * TSC chairs: [Andreas Freund](https://github.com/Therecanbeonlyone1969) and [Daniel Shaw](https://github.com/dshaw)
+* TokenScript
+  * repo:
+    * [https://github.com/eea-oasis/tokenscript](https://github.com/eea-oasis/tokenscript)
+  * Mailing list
+    * [https://lists.oasis-open-projects.org/g/eea-cp-tokenscript](https://lists.oasis-open-projects.org/g/eea-cp-tokenscript)
+  * TSC Members: [https://github.com/eea-oasis/tokenscript/blob/main/TECHNICAL-STEERING-COMMITTEE.md](https://github.com/eea-oasis/tokenscript/blob/main/TECHNICAL-STEERING-COMMITTEE.md)   
 
 
 <!-- * Ethereum OpenRPC - Bootstrapping
