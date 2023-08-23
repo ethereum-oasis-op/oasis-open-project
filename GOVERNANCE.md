@@ -25,6 +25,7 @@ The following code repositories are governed by the **EEA Community Projects** c
 * **[baseline](https://github.com/eea-oasis/baseline)**
 * **[baseline-website-v2](https://github.com/eea-oasis/baseline-website-v2)**
 * **[L2](https://github.com/eea-oasis/L2)**
+* **[TokenScript](https://github.com/eea-oasis/tokenscript)**
 
 ## Community Roles
 
