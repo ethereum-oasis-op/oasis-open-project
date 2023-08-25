@@ -48,7 +48,7 @@ With a Simple Majority Vote, the PGB can
 With a [special majority](#Special-Majority-Vote), the PGB can
   * overturn or confirm a TSC's declared consensus;
   * replace a TSC chair, before the end of the chair's term, when the chair has previously been appointed by the PGB;
-  * determine that a participant has failed to abide by the Code of Conduct, and declare them ineligible to participate for a term the PGB decides;
+  * present a complaint to OASIS staff that a participant has failed to abide by the Code of Conduct and ask that OASIS undertake corrective action; 
   * create or close TSCs;
   * appoint its own chair;
   * change this governance document.
