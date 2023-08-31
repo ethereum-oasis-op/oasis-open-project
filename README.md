@@ -19,7 +19,7 @@ Each EEA Community Project is managed by a Technical Steering Committee and over
 * Baseline Protocol
   * repo:
     * [eea-oasis/baseline](https://github.com/eea-oasis/baseline)
-´ * website: [baseline-protocol.org](https://www.baseline-protocol.org/)
+  * website: [baseline-protocol.org](https://www.baseline-protocol.org/)
   * email list: [baseline@lists.oasis-open-projects.org](https://lists.oasis-open-projects.org/g/baseline)
   * chat: [Slack](https://join.slack.com/t/ethereum-baseline/shared_invite/zt-22evmy85e-PONDIImP6CTDMtZyAkhsmw)
   * twitter: [@baselineproto](https://twitter.com/baselineproto)
