@@ -17,12 +17,11 @@ It is overseen by the [EEA Community Projects Governing Board](PROJECT-GOVERNING
 Each EEA Community Project is managed by a Technical Steering Committee and overseen by the Project Governing Board.
 
 * Baseline Protocol
-  * repos:
-    * [ethereum-oasis/baseline](https://github.com/ethereum-oasis/baseline)
-    * [ethereum-oasis/baseline-website](https://github.com/ethereum-oasis/baseline-website)
-  * website: [baseline-protocol.org](https://www.baseline-protocol.org/)
+  * repo:
+    * [eea-oasis/baseline](https://github.com/eea-oasis/baseline)
+´ * website: [baseline-protocol.org](https://www.baseline-protocol.org/)
   * email list: [baseline@lists.oasis-open-projects.org](https://lists.oasis-open-projects.org/g/baseline)
-  * chat: [Slack](https://communityinviter.com/apps/ethereum-baseline/join-us)
+  * chat: [Slack](https://join.slack.com/t/ethereum-baseline/shared_invite/zt-22evmy85e-PONDIImP6CTDMtZyAkhsmw)
   * twitter: [@baselineproto](https://twitter.com/baselineproto)
   * TSC Members: [https://github.com/eea-oasis/baseline/blob/main/TECHNICAL-STEERING-COMMITTEE.md](https://github.com/eea-oasis/baseline/blob/main/TECHNICAL-STEERING-COMMITTEE.md)
   * Governance document: https://github.com/eea-oasis/baseline/blob/master/docs/community/governance.md
