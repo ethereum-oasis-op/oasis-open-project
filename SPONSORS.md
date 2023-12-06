@@ -7,6 +7,5 @@ EEA Community Projects thank the following organizations who generously support 
 - [Enterprise Ethererum Alliance](https://entethalliance.org/) &bigstar; 
 - [Ethereum Foundation](https://ethereum.org/foundation/) &bigstar; 
 - [EY](https://www.ey.com/) &bigstar; 
-- [Montech](https://montech.io/) &bigstar;
 - [Nethermind](https://nethermind.io/) &bigstar; 
 - [Unipass](https://unipass.id/)
