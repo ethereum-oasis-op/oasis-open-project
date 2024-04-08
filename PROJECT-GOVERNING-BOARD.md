@@ -1,12 +1,11 @@
-<img src="artwork/eea-oneline.png" width="400">
 
-# EEA Community Projects Governing Board (PGB)
+# Ethereum OASIS Open Project Governing Board (PGB)
 
-The Project Governing Board sets overall strategic direction for the EEA Community Projects and formally approves released work products.
+The Project Governing Board sets overall strategic direction for the Ethereum OASIS Open Project and formally approves released work products.
 
-PGB members include representatives of [EEA Community Projects sponsor organizations](https://github.com/eea-oasis/managed-open-project/blob/main/SPONSORS.md) and representatives from the community at-large who serve on the Technical Steering Committee.
+PGB members include representatives of [Ethereum OASIS Open Project sponsor organizations](https://github.com/eea-oasis/managed-open-project/blob/main/SPONSORS.md) and representatives from the community at-large who serve on the Technical Steering Committee.
 
-The members of the EEA Community Projects Project Governing Board are listed at https://eea-oasis.github.io/managed-open-project/
+The members of the Ethereum OASIS Open Project Project Governing Board are listed at https://eea-oasis.github.io/managed-open-project/
 
 <!-- * Daniel Burnett, Enterprise Ethereum Alliance ([@burnburn](https://github.com/burnburn))
 * Tas Dienes, Ethereum Foundation ([@tasdienes](https://github.com/tasdienes))

@@ -1,4 +1,3 @@
-<img src="artwork/eea-oneline.png" width="400">
 
 # Contributor Covenant Code of Conduct
 

@@ -1,17 +1,17 @@
 <img src="artwork/eea-oneline.png" width="400">
 
-# EEA Community Projects Governance
+# Ethereum OASIS Open Project Governance
 
-This document defines the EEA Community Project's community governance per [OASIS Open Projects Governance Policy](https://github.com/oasis-open-projects/documentation/blob/master/policy/project-governance.md).
+This document defines the Ethereum OASIS Open Project's community governance per [OASIS Open Projects Governance Policy](https://github.com/oasis-open-projects/documentation/blob/master/policy/project-governance.md).
 
 # Our Goal
-Our primary goal is to provide a neutral forum for diverse stakeholders to create high-quality specifications that facilitate Ethereum’s longevity, interoperability, and ease of integration. The EEA Community Projects intend to develop clear, open standards, high-quality documentation, and shared test suites that facilitate new features and enhancements to the Ethereum protocol.
+Our primary goal is to provide a neutral forum for diverse stakeholders to create high-quality specifications that facilitate Ethereum’s longevity, interoperability, and ease of integration. The Ethereum OASIS Open Project intend to develop clear, open standards, high-quality documentation, and shared test suites that facilitate new features and enhancements to the Ethereum protocol.
 
 ## Overview
 
-The **EEA Community Projects** community is governed by this document and in accordance with [OASIS Open Project Rules](https://www.oasis-open.org/policies-guidelines/open-projects-process/). The purpose of this document is to definine how community should work together to achieve its technical goals.
+The **Ethereum OASIS Open Project** community is governed by this document and in accordance with [OASIS Open Project Rules](https://www.oasis-open.org/policies-guidelines/open-projects-process/). The purpose of this document is to definine how community should work together to achieve its technical goals.
 
-EEA Community Projects aims to work by lazy consensus within each TSC, as described under [Decision Making](#decision-making) below.  Each TSC is responsible for determining when it has lazy consensus. 
+The Ethereum OASIS Open Project aims to work by lazy consensus within each TSC, as described under [Decision Making](#decision-making) below.  Each TSC is responsible for determining when it has lazy consensus. 
 
 Within a TSC, those who show up and do the work get to make the decisions.
 
@@ -19,9 +19,9 @@ The TSC should be open to changing decisions based on new information, if a cons
 
 ## Code Repositories
 
-The following code repositories are governed by the **EEA Community Projects** community and maintained under the project namespace:
+The following code repositories are governed by the **Ethereum OASIS Open Project** community and maintained under the project namespace:
 
-* **[EEA Community Projects repository](https://github.com/eea-oasis/oasis-open-project):** The main repository.
+* **[Ethereum OASIS Open Project repository](https://github.com/eea-oasis/oasis-open-project):** The main repository.
 * **[baseline](https://github.com/eea-oasis/baseline)**
 * **[baseline-website-v2](https://github.com/eea-oasis/baseline-website-v2)**
 * **[L2](https://github.com/eea-oasis/L2)**
@@ -120,7 +120,7 @@ Note that the PGB may permit the formation or continuation of a TSC that does no
 
 ### TSC funding
 
-EEA Community Projects supports all of its TSCs.  However, if a TSC would like additional resources, beyond those provided by default by OASIS, to support its initiatives, it may seek additional funding.
+Ethereum OASIS Open Project supports all of its TSCs.  However, if a TSC would like additional resources, beyond those provided by default by OASIS, to support its initiatives, it may seek additional funding.
 
 Any Sponsor may provide additional funding through OASIS that is designated for a specific TSC to allocate.  Non-Sponsors may contribute additional funding as described in [Non-Sponsor TSC funding](#non-sponsor-tsc-funding).
 
@@ -129,15 +129,15 @@ Programs designed to solicit grants may be specific to individual TSCs.
 In all cases,
 * Grantors must be informed, before funds are committed, of any fees that will be deducted from their grants.
 * No advance vote or approval by the PGB is required to accept a grant or allocate the funds.  However, the TSC must give advance notice to the PGB before disbursement of any funds.
-* Either OASIS or the PGB may veto the acquisition or use of such funding at any time for any reason.  A statement to this effect must be included on any grants form. The intent of this requirement is to ensure that the acquisition and use of any such funding is consistent with the overall goals of OASIS and the EEA Community Projects.
+* Either OASIS or the PGB may veto the acquisition or use of such funding at any time for any reason.  A statement to this effect must be included on any grants form. The intent of this requirement is to ensure that the acquisition and use of any such funding is consistent with the overall goals of OASIS and the Ethereum OASIS Open Project.
 * The TSC determines where to direct the funds collected, either directly or via a process they establish.  Note that Grantors have no direct control over use of funds within a TSC and thus cannot use this funding mechanism to direct priorities within the TSC.
-* The TSC and its projects may not use the OASIS or EEA Community Projects names when seeking or using additional funding unless the PGB has been notified in advance.  
+* The TSC and its projects may not use the OASIS or Ethereum OASIS Open Project names when seeking or using additional funding unless the PGB has been notified in advance.  
 
-If a TSC chooses to seek funding outside of the OASIS funding path, they still must not use the OASIS, EEA Community Projects, or TSC project names when seeking or using additional funding unless the PGB has been notified in advance.
+If a TSC chooses to seek funding outside of the OASIS funding path, they still must not use the OASIS, Ethereum OASIS Open Project, or TSC project names when seeking or using additional funding unless the PGB has been notified in advance.
 
 #### Non-Sponsor TSC funding
 
-Non-Sponsors of the EEA Community Projects may fund grants at any time and in any amount. After deducting any administration fees assessed by the transaction processor, 25% of the proceeds  will be used to fund Core Services, including marketing, with the remainder available for allocation by the TSC.
+Non-Sponsors of the Ethereum OASIS Open Project may fund grants at any time and in any amount. After deducting any administration fees assessed by the transaction processor, 25% of the proceeds  will be used to fund Core Services, including marketing, with the remainder available for allocation by the TSC.
 
 Grantors must be informed, before funds are committed, of the 25% assessment for Core Services. 
 

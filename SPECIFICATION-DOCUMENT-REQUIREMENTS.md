@@ -1,4 +1,4 @@
-# EEA Community Projects
+# Ethereum OASIS Open Project
 
 
 ## Criteria for publishing specification documents

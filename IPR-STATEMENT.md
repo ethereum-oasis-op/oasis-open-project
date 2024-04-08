@@ -1,4 +1,4 @@
-<img src="artwork/eea-oneline.png" width="400">
+
 
 # IPR Statement
 
