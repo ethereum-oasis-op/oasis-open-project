@@ -5,7 +5,7 @@ The Ethereum OASIS Open Project exists to provide a neutral forum for diverse st
 
 For more information on the goals of this effort, see the [project charter](./PROJECT_CHARTER.md).
 
-You can also sign up for [the Ethereum OASIS Open Project email group](https://lists.oasis-open-projects.org/g/eea-community-projects) to receive occasional official notifications and discussions.
+You can also sign up for [the Ethereum OASIS Open Project email group](https://lists.oasis-open-projects.org/g/ethereum-oasis) to receive occasional official notifications and discussions.
 
 ## Governance
 The Ethereum OASIS Open Project operate under the terms of the [OASIS Open Project Rules](https://github.com/oasis-open-projects/documentation/blob/master/board-docs/open-projects-rules.md), its [Project Governance Document](https://github.com/eea-oasis/managed-open-project/blob/master/GOVERNANCE.md) and the applicable license(s) specified in [LICENSE.md](./LICENSE).
@@ -17,24 +17,24 @@ There are several Technical Steering Committees under the umbrella of the Open P
 
 * Baseline Protocol
   * repo:
-    * [eea-oasis/baseline](https://github.com/eea-oasis/baseline)
+    * [https://github.com/ethereum-oasis-op/baseline](https://github.com/ethereum-oasis-op/baseline)
   * website: [baseline-protocol.org](https://www.baseline-protocol.org/)
   * email list: [baseline@lists.oasis-open-projects.org](https://lists.oasis-open-projects.org/g/baseline)
   * chat: [Slack](https://join.slack.com/t/ethereum-baseline/shared_invite/zt-22evmy85e-PONDIImP6CTDMtZyAkhsmw)
   * twitter: [@baselineproto](https://twitter.com/baselineproto)
-  * TSC Members: [https://github.com/eea-oasis/baseline/blob/main/TECHNICAL-STEERING-COMMITTEE.md](https://github.com/eea-oasis/baseline/blob/main/TECHNICAL-STEERING-COMMITTEE.md)
+  * TSC Members: [https://github.com/ethereum-oasis-op/baseline/blob/main/TECHNICAL-STEERING-COMMITTEE.md](https://github.com/ethereum-oasis-op/baseline/blob/main/TECHNICAL-STEERING-COMMITTEE.md)
   * Governance document: https://github.com/eea-oasis/baseline/blob/master/docs/community/governance.md
 * L2 Project – Layer 2 Blockchain Scalability Solutions
   * repo:
-    * [https://github.com/eea-oasis/L2](https://github.com/eea-oasis/L2)  
+    * [https://github.com/ethereum-oasis-op/L2](https://github.com/ethereum-oasis-op/L2)
   * email list:
-    * [https://lists.oasis-open-projects.org/g/eea-cp-l2](https://lists.oasis-open-projects.org/g/eea-cp-l2)
+    * 
   * Chat:
     * [Slack](https://join.slack.com/t/eeacommunityp-kte2307/shared_invite/zt-1qyb6xi90-85TS9xpU~XG8cK0Feeoofg)
   * TSC chairs: [Andreas Freund](https://github.com/Therecanbeonlyone1969) and [Daniel Shaw](https://github.com/dshaw)
 * TokenScript
   * repo:
-    * [https://github.com/eea-oasis/tokenscript](https://github.com/eea-oasis/tokenscript)
+    * [https://github.com/ethereum-oasis-op/tokenscript](https://github.com/ethereum-oasis-op/tokenscript)
   * Mailing list
     * [https://lists.oasis-open-projects.org/g/eea-cp-tokenscript](https://lists.oasis-open-projects.org/g/eea-cp-tokenscript)
   * TSC Members: [https://github.com/eea-oasis/tokenscript/blob/main/TECHNICAL-STEERING-COMMITTEE.md](https://github.com/eea-oasis/tokenscript/blob/main/TECHNICAL-STEERING-COMMITTEE.md)   
