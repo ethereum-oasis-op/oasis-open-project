@@ -1,6 +1,5 @@
-<img src="artwork/eea-oneline.png" width="400">
 
-# EEA Community Projects, an OASIS Managed Open Project
+# Ethereum OASIS Open Project
 
 EEA Community Projects, an OASIS Managed Open Project, exists to provide a neutral forum for diverse stakeholders to create high-quality specifications that facilitate Ethereum’s longevity, interoperability, and ease of integration. The EEA Community Projects intend to develop clear, open standards, high-quality documentation, and shared test suites that facilitate new features and enhancements to the Ethereum protocol.
 
