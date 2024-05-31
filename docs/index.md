@@ -1,4 +1,4 @@
-<img src="eea-large.png" width="200">
+
 
 <h1>Ethereum OASIS Open Project Governing Board (PGB)</H1>
 
