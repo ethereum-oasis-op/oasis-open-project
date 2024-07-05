@@ -6,7 +6,7 @@
 
 <p>PGB members include representatives of <a href="https://github.com/eea-oasis/managed-open-project/blob/main/SPONSORS.md">Ethereum OASIS Open Project sponsor organizations</a> and representatives from the community at-large who serve on the Technical Steering Committee.</p>
 
-<p><i>PGB Chairs</i>: Tas Dienes</p> 
+<p><i>PGB Chairs</i>: Tas Dienes, Andreas Freund</p> 
 
 <p>PGB members:</p> 
 
