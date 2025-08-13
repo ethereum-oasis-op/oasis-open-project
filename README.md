@@ -1,18 +1,19 @@
 
+**The Ethereum OASIS Open Project closed on 31 May, 2025 and is no longer active.**
+
 # Ethereum OASIS Open Project
 
 The Ethereum OASIS Open Project exists to provide a neutral forum for diverse stakeholders to create high-quality specifications that facilitate Ethereum’s longevity, interoperability, and ease of integration. The Ethereum OASIS Open Project intend to develop clear, open standards, high-quality documentation, and shared test suites that facilitate new features and enhancements to the Ethereum protocol.
 
 For more information on the goals of this effort, see the [project charter](./PROJECT_CHARTER.md).
 
-You can also sign up for [the Ethereum OASIS Open Project email group](https://lists.oasis-open-projects.org/g/ethereum-oasis) to receive occasional official notifications and discussions.
 
 ## Governance
 The Ethereum OASIS Open Project operate under the terms of the [OASIS Open Project Rules](https://github.com/oasis-open-projects/documentation/blob/master/board-docs/open-projects-rules.md), its [Project Governance Document](https://github.com/eea-oasis/managed-open-project/blob/master/GOVERNANCE.md) and the applicable license(s) specified in [LICENSE.md](./LICENSE).
 
 It is overseen by the [Ethereum OASIS Open Project Governing Board](PROJECT-GOVERNING-BOARD.md).
 
-## List of projects & TSCs
+<!-- ## List of projects & TSCs
 There are several Technical Steering Committees under the umbrella of the Open Project. Each TSC is overseen by the Project Governing Board.
 
 * Baseline Protocol
@@ -37,7 +38,7 @@ There are several Technical Steering Committees under the umbrella of the Open P
     * [https://github.com/ethereum-oasis-op/tokenscript](https://github.com/ethereum-oasis-op/tokenscript)
   * Mailing list
     * [https://lists.oasis-open-projects.org/g/eea-cp-tokenscript](https://lists.oasis-open-projects.org/g/eea-cp-tokenscript)
-  * TSC Members: [https://github.com/eea-oasis/tokenscript/blob/main/TECHNICAL-STEERING-COMMITTEE.md](https://github.com/eea-oasis/tokenscript/blob/main/TECHNICAL-STEERING-COMMITTEE.md)   
+  * TSC Members: [https://github.com/eea-oasis/tokenscript/blob/main/TECHNICAL-STEERING-COMMITTEE.md](https://github.com/eea-oasis/tokenscript/blob/main/TECHNICAL-STEERING-COMMITTEE.md) -->  
 
 
 <!-- * Ethereum OpenRPC - Bootstrapping
